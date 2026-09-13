@@ -30,6 +30,33 @@ def img(file, size='full'):
     ext = '.png' if ext.lower() == '.png' else '.jpg'
     return f'/assets/img/{size}/{base}{ext}'
 
+OG_W, OG_H = 1200, 630
+_og_cache = {}
+def og_card(web_path):
+    """Return a 1200x630 share-card path for a site image (root-relative web path). Falls back to the image itself."""
+    if not web_path or not web_path.startswith('/assets/img/'): return web_path
+    if web_path in _og_cache: return _og_cache[web_path]
+    src = SITE / web_path.lstrip('/'); name = os.path.splitext(os.path.basename(web_path))[0] + '.jpg'
+    out = SITE / 'assets/og' / name; out.parent.mkdir(parents=True, exist_ok=True)
+    if not out.exists() and src.exists() and shutil.which('sips'):
+        import subprocess
+        info = subprocess.run(['sips', '-g', 'pixelWidth', '-g', 'pixelHeight', str(src)], capture_output=True, text=True).stdout
+        try:
+            w = int(re.search(r'pixelWidth: (\d+)', info).group(1)); h = int(re.search(r'pixelHeight: (\d+)', info).group(1))
+        except Exception: w, h = 0, 0
+        if w and h:
+            tmp = out.with_suffix('.tmp.jpg')
+            # scale so the image covers 1200x630, then centre-crop
+            if w / h >= OG_W / OG_H: args = ['--resampleHeight', str(OG_H)]
+            else: args = ['--resampleWidth', str(OG_W)]
+            subprocess.run(['sips', *args, '-s', 'format', 'jpeg', '-s', 'formatOptions', '85', str(src), '--out', str(tmp)], capture_output=True)
+            subprocess.run(['sips', '-c', str(OG_H), str(OG_W), str(tmp), '--out', str(out)], capture_output=True)
+            tmp.unlink(missing_ok=True)
+    _og_cache[web_path] = f'/assets/og/{name}' if out.exists() else web_path
+    return _og_cache[web_path]
+
+SITE_KEYWORDS = ['Sketchbot', 'Sketchbot Studios', 'Steve Talkowski', 'character design', '3D animation', 'robot designer toy', 'Apple Vision Pro', 'visionOS', 'spatial computing', 'USDZ', 'Maya', 'ZBrush', 'KeyShot', 'Los Angeles 3D artist']
+
 def slugify(s):
     s = re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-'); return s[:80] or 'post'
 
@@ -69,15 +96,22 @@ SB_MARK = '''<svg viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient i
 SOCIAL = site_cfg['social']
 
 # ----------------------------------------------------------------------------- layout
-def layout(*, title, desc, body, path, section='', og_image=None, jsonld=None, extra_head='', wide=True, kind='website'):
+def layout(*, title, desc, body, path, section='', og_image=None, jsonld=None, extra_head='', wide=True, kind='website', keywords=None, og_alt=None, published=None, modified=None):
     nav = ''
     for n in site_cfg['nav']:
         cur = ' aria-current="page"' if n['key'] == section else ''
         cls = ''
         nav += f'<a href="{n["href"]}"{cur}{cls}>{n["label"]}</a>'
-    og = og_image or '/assets/og/default.jpg'
+    og = og_card(og_image) if og_image else '/assets/og/default.jpg'
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ''
     canonical = BASE_URL + path
+    kw = ', '.join(dict.fromkeys([*(keywords or []), *SITE_KEYWORDS]))
+    og_alt = og_alt or title
+    og_dims = '<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">' if og.startswith('/assets/og/') else ''
+    og_type = '<meta property="og:image:type" content="image/jpeg">' if og.endswith('.jpg') else ('<meta property="og:image:type" content="image/png">' if og.endswith('.png') else '')
+    article_meta = ''
+    if kind == 'article':
+        article_meta = '<meta property="article:author" content="Steve Talkowski">' + (f'<meta property="article:published_time" content="{published}">' if published else '') + (f'<meta property="article:modified_time" content="{modified}">' if modified else '')
     return f'''<!doctype html>
 <html lang="en">
 <head>
@@ -85,10 +119,14 @@ def layout(*, title, desc, body, path, section='', og_image=None, jsonld=None, e
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
+<meta name="keywords" content="{esc(kw)}">
+<meta name="author" content="Steve Talkowski">
+<meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="{canonical}">
 <meta name="theme-color" content="#0b0b0e" media="(prefers-color-scheme: dark)"><meta name="theme-color" content="#f6f3ee" media="(prefers-color-scheme: light)">
-<meta property="og:site_name" content="Sketchbot Studios"><meta property="og:type" content="{kind}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}"><meta property="og:image" content="{BASE_URL}{og}">
-<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}"><meta name="twitter:image" content="{BASE_URL}{og}">
+<meta property="og:site_name" content="Sketchbot Studios"><meta property="og:locale" content="en_US"><meta property="og:type" content="{kind}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{canonical}">
+<meta property="og:image" content="{BASE_URL}{og}"><meta property="og:image:secure_url" content="{BASE_URL}{og}">{og_dims}{og_type}<meta property="og:image:alt" content="{esc(og_alt)}">{article_meta}
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@stevetalkowski"><meta name="twitter:creator" content="@stevetalkowski"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}"><meta name="twitter:image" content="{BASE_URL}{og}"><meta name="twitter:image:alt" content="{esc(og_alt)}">
 <link rel="icon" href="/assets/brand/favicon-96.png" type="image/png" sizes="96x96"><link rel="icon" href="/assets/brand/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/assets/brand/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="Sketchbot Studios News" href="/feed.xml">
@@ -308,7 +346,7 @@ def page_home():
         {"@type": "Organization", "@id": BASE_URL + "/#org", "name": "Sketchbot Studios", "url": BASE_URL, "logo": BASE_URL + "/assets/quads/icon-front.png", "founder": {"@id": BASE_URL + "/#steve"}, "sameAs": [s['href'] for s in SOCIAL], "email": "steve@sketchbot.tv", "address": {"@type": "PostalAddress", "addressLocality": "Los Angeles", "addressRegion": "CA", "addressCountry": "US"}},
         {"@type": "Person", "@id": BASE_URL + "/#steve", "name": "Steve Talkowski", "jobTitle": "Creative Director, Character Designer, Animator", "worksFor": {"@id": BASE_URL + "/#org"}, "url": BASE_URL + "/about/", "sameAs": [s['href'] for s in SOCIAL]},
         {"@type": "WebSite", "url": BASE_URL, "name": "Sketchbot Studios", "publisher": {"@id": BASE_URL + "/#org"}}]}
-    write('index.html', layout(title='Sketchbot Studios — Design. Create. Animate. Now in your space.', desc='The character-driven 3D studio of Steve Talkowski: animation for brands and film, the Sketchbot designer toy, and professional tools and services for Apple Vision Pro.', body=body, path='/', section='home', og_image=img(hero['file']), jsonld=ld))
+    write('index.html', layout(title='Sketchbot Studios — Design. Create. Animate. Now in your space.', desc='The character-driven 3D studio of Steve Talkowski: animation for brands and film, the Sketchbot designer toy, and professional tools and services for Apple Vision Pro.', body=body, path='/', section='home', og_image=img(hero['file']), jsonld=ld, keywords=['3D character studio', 'animation director', 'designer toys', 'Vision Pro apps', 'Quads'], og_alt='Sketchbot explorer robot on a sunny path. Design. Create. Animate. Now in your space.'))
 
 # ----------------------------------------------------------------------------- SPATIAL
 SPATIAL_LD = {"@context": "https://schema.org", "@type": "Service", "name": "Sketchbot Studios spatial computing", "provider": {"@id": BASE_URL + "/#org"}, "serviceType": "Spatial computing design and development for Apple Vision Pro", "areaServed": "Worldwide", "url": BASE_URL + "/spatial/"}
@@ -361,7 +399,7 @@ def page_spatial():
   <p class="muted">Whether you need a mascot that reads at arm's length, an app that feels native to visionOS, or a website your customers can step into, the studio is taking spatial work now.</p>
   <div class="cluster"><a class="btn btn--orange" href="mailto:steve@sketchbot.tv?subject=Spatial%20project">{ic('mail')} steve@sketchbot.tv</a><a class="btn btn--ghost" href="/spatial/services/">See services &amp; process</a></div>
 </div></section>'''
-    write('spatial/index.html', layout(title='Spatial computing — Sketchbot Studios', desc='Quads, immersive website environments, USDZ asset pipelines, an open-source radial menu and studio services for spatial computing on Apple Vision Pro.', body=body, path='/spatial/', section='spatial', og_image=img(museum['file']), jsonld=SPATIAL_LD))
+    write('spatial/index.html', layout(title='Spatial computing — Sketchbot Studios', desc='Quads, immersive website environments, USDZ asset pipelines, an open-source radial menu and studio services for spatial computing on Apple Vision Pro.', body=body, path='/spatial/', section='spatial', og_image=img(museum['file']), jsonld=SPATIAL_LD, keywords=['Apple Vision Pro development', 'visionOS design', 'immersive website environments', 'USDZ pipeline', 'RealityKit', 'Reality Composer Pro', 'spatial UX'], og_alt='Sketchbot characters in a neon-lit museum corridor'))
 
 def page_quads():
     feats = [
@@ -423,7 +461,7 @@ def page_quads():
 
 <section class="section"><div class="wrap contact-card reveal"><p class="eyebrow eyebrow--orange">Beta</p><h2>Want early access?</h2><p class="muted">Quads is in its final stretch before the App Store. Modelers, educators and studios can request a TestFlight seat.</p><div class="cluster"><a class="btn btn--orange" href="mailto:steve@sketchbot.tv?subject=Quads%20TestFlight">{ic('mail')} Request TestFlight</a><a class="btn btn--ghost" href="https://quads.vision" target="_blank" rel="noopener">quads.vision</a></div></div></section></div>'''
     ld = {"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Quads", "applicationCategory": "DesignApplication", "operatingSystem": "visionOS 27", "url": "https://quads.vision", "author": {"@id": BASE_URL + "/#org"}, "description": "A spatial box modeler for Apple Vision Pro with Catmull-Clark subdivision, sculpting, voxel remesh, USDZ export and SharePlay co-modeling.", "offers": {"@type": "Offer", "availability": "https://schema.org/PreOrder", "price": "0", "priceCurrency": "USD"}}
-    write('spatial/quads/index.html', layout(title='Quads — spatial box modeler for Apple Vision Pro — Sketchbot Studios', desc='Quads is a spatial box modeler for Apple Vision Pro: hands-first modeling, Logitech Muse stylus support, Catmull-Clark subdivision, sculpt and remesh, USDZ export and SharePlay co-modeling.', body=body, path='/spatial/quads/', section='spatial', og_image='/assets/quads/icon-front.png', jsonld=ld))
+    write('spatial/quads/index.html', layout(title='Quads — spatial box modeler for Apple Vision Pro — Sketchbot Studios', desc='Quads is a spatial box modeler for Apple Vision Pro: hands-first modeling, Logitech Muse stylus support, Catmull-Clark subdivision, sculpt and remesh, USDZ export and SharePlay co-modeling.', body=body, path='/spatial/quads/', section='spatial', og_image=img(by_slug['afternoon-at-the-museum']['items'][5]['file']), jsonld=ld, keywords=['Quads app', 'Vision Pro 3D modeling', 'box modeler', 'Catmull-Clark subdivision', 'Logitech Muse', 'SharePlay', 'USDZ export', 'quads.vision'], og_alt='Quads, a spatial box modeler for Apple Vision Pro'))
 
 def page_environments():
     tron = by_slug['tron-immersive']; back = by_slug['backrooms']
@@ -466,7 +504,7 @@ def page_environments():
 </div></section>
 
 <section class="section"><div class="wrap contact-card reveal"><p class="eyebrow eyebrow--orange">For brands</p><h2>Your showroom, in their living room.</h2><p class="muted">Product launches, film tie-ins, museum previews, retail concepts: an immersive environment is the most memorable thing a website can do on Vision Pro, and it ships as a single file.</p><div class="cluster"><a class="btn btn--orange" href="mailto:steve@sketchbot.tv?subject=Immersive%20environment">{ic('mail')} Commission an environment</a><a class="btn btn--ghost" href="/spatial/services/">Services</a></div></div></section>'''
-    write('spatial/environments/index.html', layout(title='Immersive website environments for Apple Vision Pro — Sketchbot Studios', desc='Full-immersion Safari website environments built from USDZ: TRON The Grid and the Backrooms, with spatial audio and stereoscopic inline models, for visionOS 27.', body=body, path='/spatial/environments/', section='spatial', og_image=img(tron['items'][2]['file']), jsonld=SPATIAL_LD))
+    write('spatial/environments/index.html', layout(title='Immersive website environments for Apple Vision Pro — Sketchbot Studios', desc='Full-immersion Safari website environments built from USDZ: TRON The Grid and the Backrooms, with spatial audio and stereoscopic inline models, for visionOS 27.', body=body, path='/spatial/environments/', section='spatial', og_image='/assets/spatial/tank_SS_V2.jpg', jsonld=SPATIAL_LD, keywords=['website environment', 'Safari immersive', 'TRON', 'Backrooms', 'requestImmersive', 'model element', 'spatial audio'], og_alt='TRON Tank rendered on The Grid'))
 
 def page_assets():
     GH = 'https://stevetalkowski.github.io/spatial-assets/'
@@ -502,7 +540,7 @@ def page_assets():
 </div></section>
 
 <section class="section"><div class="wrap contact-card reveal"><p class="eyebrow eyebrow--orange">Need assets?</p><h2>Send the brief.</h2><p class="muted">A single hero prop or a whole cast, for an app, a store listing, an ad or a website environment. Include a description, budget and deadline.</p><div class="cluster"><a class="btn btn--orange" href="mailto:steve@sketchbot.tv?subject=USDZ%20assets">{ic('mail')} steve@sketchbot.tv</a></div></div></section>'''
-    write('spatial/assets/index.html', layout(title='USDZ asset production for Apple Vision Pro — Sketchbot Studios', desc='Production-grade USDZ characters, props and environments for RealityKit, Quick Look and Safari: quad topology, PBR materials, validated packaging, spatial preview kit.', body=body, path='/spatial/assets/', section='spatial', og_image='/assets/spatial/tank_SS_V2.jpg', jsonld=SPATIAL_LD))
+    write('spatial/assets/index.html', layout(title='USDZ asset production for Apple Vision Pro — Sketchbot Studios', desc='Production-grade USDZ characters, props and environments for RealityKit, Quick Look and Safari: quad topology, PBR materials, validated packaging, spatial preview kit.', body=body, path='/spatial/assets/', section='spatial', og_image='/assets/spatial/tank_SS_V2.jpg', jsonld=SPATIAL_LD, keywords=['USDZ assets', 'USDZ production', 'Quick Look AR', 'RealityKit assets', 'usdchecker', 'OpenPBR', '3D asset pipeline'], og_alt='TRON Tank USDZ asset'))
 
 def page_radial():
     body = f'''
@@ -530,7 +568,7 @@ pitch = iconSize × (1 + gutter)</code></pre><p class="muted mt-1">One base unit
   </div>
 </div></section>'''
     ld = {"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "Radial Menu", "codeRepository": "https://github.com/stevetalkowski/radial-menu", "programmingLanguage": "Swift", "runtimePlatform": "visionOS, macOS, iPadOS, iOS", "author": {"@id": BASE_URL + "/#steve"}, "license": "https://opensource.org/licenses/MIT"}
-    write('spatial/radial-menu/index.html', layout(title='Radial Menu — open-source tunable menu for visionOS — Sketchbot Studios', desc='A tunable radial, vertical and horizontal menu for visionOS, macOS, iPadOS and iOS. One Swift file, no dependencies, plus a tuning app with live sliders and code export.', body=body, path='/spatial/radial-menu/', section='spatial', og_image=img(by_slug['afternoon-at-the-museum']['items'][5]['file']), jsonld=ld))
+    write('spatial/radial-menu/index.html', layout(title='Radial Menu — open-source tunable menu for visionOS — Sketchbot Studios', desc='A tunable radial, vertical and horizontal menu for visionOS, macOS, iPadOS and iOS. One Swift file, no dependencies, plus a tuning app with live sliders and code export.', body=body, path='/spatial/radial-menu/', section='spatial', og_image=img(by_slug['afternoon-at-the-museum']['items'][5]['file']), jsonld=ld, keywords=['radial menu', 'SwiftUI', 'visionOS UI', 'open source Swift', 'pie menu', 'GitHub'], og_alt='Radial Menu, open-source tunable menu for visionOS'))
 
 def page_services():
     svcs = [
@@ -566,7 +604,7 @@ def page_services():
 
 <section class="section"><div class="wrap contact-card reveal"><p class="eyebrow eyebrow--orange">Upcoming gig?</p><h2>Let's talk.</h2><p class="muted">Please include a short description, estimated budget and deadline. Storyboards, supporting imagery and NDAs can be emailed directly.</p><div class="cluster"><a class="btn btn--orange" href="mailto:steve@sketchbot.tv?subject=Spatial%20project">{ic('mail')} steve@sketchbot.tv</a><a class="btn btn--ghost" href="/contact/">Contact page</a></div></div></section>'''
     ld = {"@context": "https://schema.org", "@type": "Service", "name": "Sketchbot Studios spatial services", "provider": {"@id": BASE_URL + "/#org"}, "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Spatial computing services", "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": t}} for _, t, _ in svcs]}}
-    write('spatial/services/index.html', layout(title='Spatial computing services for Apple Vision Pro — Sketchbot Studios', desc='Spatial character and mascot design, visionOS app design and prototyping, immersive brand environments, USDZ pipelines, SharePlay experiences and training from Sketchbot Studios.', body=body, path='/spatial/services/', section='spatial', og_image=img(by_slug['adobe-vr-bot']['items'][1]['file']), jsonld=ld))
+    write('spatial/services/index.html', layout(title='Spatial computing services for Apple Vision Pro — Sketchbot Studios', desc='Spatial character and mascot design, visionOS app design and prototyping, immersive brand environments, USDZ pipelines, SharePlay experiences and training from Sketchbot Studios.', body=body, path='/spatial/services/', section='spatial', og_image=img(by_slug['adobe-vr-bot']['items'][1]['file']), jsonld=ld, keywords=['spatial computing services', 'Vision Pro app design', 'mascot design', 'immersive brand environments', 'SharePlay development', 'spatial training'], og_alt='Adobe VR Bot sculpting light in a neon warehouse'))
 
 def page_lab():
     m = by_slug['museum-of-untold-possibilities']
@@ -592,7 +630,7 @@ def page_lab():
     <div class="card card--pad"><h3>Small mesh files aren't free</h3><p>Apple's proprietary mesh codec halves a USDZ but locks out Maya, Blender and Pixar's tools. Ship standard packages when the file has to travel.</p></div>
   </div>
 </div></section>'''
-    write('spatial/lab/index.html', layout(title='The Lab — spatial computing experiments — Sketchbot Studios', desc='Experiments and research from Sketchbot Studios: VR navigation sandbox, stylus input probes, the Museum of Untold Possibilities pitch, and field notes from building for visionOS 27.', body=body, path='/spatial/lab/', section='spatial', og_image=img(m['items'][0]['file']), jsonld=SPATIAL_LD))
+    write('spatial/lab/index.html', layout(title='The Lab — spatial computing experiments — Sketchbot Studios', desc='Experiments and research from Sketchbot Studios: VR navigation sandbox, stylus input probes, the Museum of Untold Possibilities pitch, and field notes from building for visionOS 27.', body=body, path='/spatial/lab/', section='spatial', og_image=img(m['items'][0]['file']), jsonld=SPATIAL_LD, keywords=['VR research', 'VRNavDemo', 'stylus input', 'Museum of Untold Possibilities', 'visionOS 27 notes'], og_alt='Eye Pilot wearing a VR headset'))
 
 # ----------------------------------------------------------------------------- WORK
 def page_work_index():
@@ -605,7 +643,7 @@ def page_work_index():
   <div class="page-head"><p class="eyebrow eyebrow--orange">Work</p><h1>Robots, mascots, worlds</h1><p>{len(projects_cur)} projects spanning designer toys, brand mascots, feature-film concept art, real-time worlds and spatial environments for Apple Vision Pro.</p><div class="filters" role="group" aria-label="Filter projects">{fl}</div></div>
   <div class="work-grid">{cards}</div>
 </div></section>'''
-    write('work/index.html', layout(title='Work — Sketchbot Studios', desc='Portfolio of Sketchbot Studios: the Sketchbot designer toy, mascots for Autodesk and KeyShot, concept art for SCOOB!, Unreal worlds, and spatial environments for Apple Vision Pro.', body=body, path='/work/', section='work', og_image=img(by_slug['sketchbot']['hero_img']['file'])))
+    write('work/index.html', layout(title='Work — Sketchbot Studios', desc='Portfolio of Sketchbot Studios: the Sketchbot designer toy, mascots for Autodesk and KeyShot, concept art for SCOOB!, Unreal worlds, and spatial environments for Apple Vision Pro.', body=body, path='/work/', section='work', og_image=img(by_slug['sketchbot']['hero_img']['file']), keywords=['portfolio', 'character design portfolio', 'mascot design', 'concept art', 'Unreal Engine', 'designer vinyl toy'], og_alt='Sketchbot designer vinyl toy with pencil'))
 
 def page_project(p, prev, nxt):
     facts = f'''<dl class="facts"><div><dt>Year</dt><dd>{esc(p["year"])}</dd></div><div><dt>Category</dt><dd>{esc(p["category"])}</dd></div><div><dt>Roles</dt><dd>{esc(", ".join(p["roles"]))}</dd></div><div><dt>Tools</dt><dd>{esc(", ".join(p["tools"]))}</dd></div></dl>'''
@@ -638,7 +676,7 @@ def page_project(p, prev, nxt):
 </div></section>
 </article>'''
     ld = {"@context": "https://schema.org", "@type": "CreativeWork", "name": p['title'], "url": BASE_URL + p['url'], "description": p['blurb'], "creator": {"@id": BASE_URL + "/#steve"}, "image": BASE_URL + img(p['hero_img']['file']), "keywords": ", ".join(p.get('tags', [])), "dateCreated": p['year'][:4]}
-    write(p['url'] + 'index.html', layout(title=f'{p["title"]} — Sketchbot Studios', desc=p['blurb'], body=body, path=p['url'], section='work', og_image=img(p['hero_img']['file']), jsonld=ld, kind='article'))
+    write(p['url'] + 'index.html', layout(title=f'{p["title"]} — Sketchbot Studios', desc=p['blurb'], body=body, path=p['url'], section='work', og_image=img(p['hero_img']['file']), jsonld=ld, kind='article', keywords=[p['title'], p['category'], *p.get('tags', []), *p.get('tools', [])], og_alt=p['title'], published=f"{p['year'][:4]}-01-01"))
 
 # ----------------------------------------------------------------------------- REEL / ABOUT / CONTACT / SHOP
 def page_reel():
@@ -652,7 +690,7 @@ def page_reel():
   <p class="dim small mt-1">Can't see the player? <a href="https://vimeo.com/stevetalkowski" target="_blank" rel="noopener">Watch on Vimeo</a>.</p>
 </div></section>
 <section class="section"><div class="wrap">{section_head('Shot breakdown', 'Who did what')}<div class="table-wrap mt-2"><table><thead><tr><th>Shot</th><th>Contribution</th></tr></thead><tbody>{rows}</tbody></table></div></div></section>'''
-    write('reel/index.html', layout(title='Demo reel — Steve Talkowski | Sketchbot Studios', desc='Demo reel and full shot breakdown: modeling, rigging, animation, lighting and VFX supervision for national brands and feature films.', body=body, path='/reel/', section='reel', og_image=img(by_slug['3d-misc']['items'][20]['file'])))
+    write('reel/index.html', layout(title='Demo reel — Steve Talkowski | Sketchbot Studios', desc='Demo reel and full shot breakdown: modeling, rigging, animation, lighting and VFX supervision for national brands and feature films.', body=body, path='/reel/', section='reel', og_image=img(by_slug['3d-misc']['items'][20]['file']), keywords=['demo reel', 'animation reel', 'commercial animation', 'VFX supervisor', 'character animator'], og_alt='Steve Talkowski demo reel'))
 
 def page_about():
     portrait = archive_projects['about']['items'][0]
@@ -689,7 +727,7 @@ def page_about():
 <tr><th>2024–2026</th><td>Spatial computing: Quads for Apple Vision Pro, TRON and Backrooms immersive environments, open-source Radial Menu.</td></tr>
 </table></div></div></section>'''
     ld = {"@context": "https://schema.org", "@type": "Person", "@id": BASE_URL + "/#steve", "name": "Steve Talkowski", "image": BASE_URL + img(portrait['file']), "jobTitle": "Creative Director", "worksFor": {"@id": BASE_URL + "/#org"}, "sameAs": [s['href'] for s in SOCIAL], "knowsAbout": ["Character design", "3D animation", "Apple Vision Pro", "visionOS", "USDZ", "Maya", "ZBrush", "Unreal Engine"]}
-    write('about/index.html', layout(title='About Steve Talkowski — Sketchbot Studios', desc='Steve Talkowski: animation director, character designer and creator of the Sketchbot designer toy, now building professional tools for Apple Vision Pro.', body=body, path='/about/', section='about', og_image=img(portrait['file']), jsonld=ld, kind='profile'))
+    write('about/index.html', layout(title='About Steve Talkowski — Sketchbot Studios', desc='Steve Talkowski: animation director, character designer and creator of the Sketchbot designer toy, now building professional tools for Apple Vision Pro.', body=body, path='/about/', section='about', og_image=img(portrait['file']), jsonld=ld, kind='profile', keywords=['Steve Talkowski bio', 'Blue Sky Studios', 'Ice Age animator', 'Bunny Academy Award', 'Sketchbot creator'], og_alt='Steve Talkowski in front of a giant Sketchbot eye'))
 
 def page_contact():
     hero = archive_projects['contact']['items'][0]
@@ -717,7 +755,7 @@ def page_contact():
   </div>
 </div></section>'''
     ld = {"@context": "https://schema.org", "@type": "ContactPage", "url": BASE_URL + "/contact/", "mainEntity": {"@id": BASE_URL + "/#org"}}
-    write('contact/index.html', layout(title='Contact — Sketchbot Studios', desc='Contact Steve Talkowski at Sketchbot Studios for art direction, character design, 3D modeling and Apple Vision Pro spatial computing projects.', body=body, path='/contact/', section='contact', og_image=img(hero['file']), jsonld=ld))
+    write('contact/index.html', layout(title='Contact — Sketchbot Studios', desc='Contact Steve Talkowski at Sketchbot Studios for art direction, character design, 3D modeling and Apple Vision Pro spatial computing projects.', body=body, path='/contact/', section='contact', og_image=img(hero['file']), jsonld=ld, keywords=['hire 3D artist', 'hire character designer', 'art direction', 'Vision Pro developer for hire', 'steve@sketchbot.tv'], og_alt='Resin robot prototypes in the Sketchbot workshop'))
 
 def page_shop():
     sb = by_slug['sketchbot']
@@ -740,7 +778,7 @@ def page_shop():
 <tr><td>Mold3D robots</td><td>2015</td><td>3D-printable robot files as a launch artist on the Mold3D shop.</td></tr>
 </tbody></table></div><div class="gallery mt-3">{gallery(sb['items'][:8], 'Sketchbot')[len('<div class="gallery">'):-6]}</div></div></section>'''
     ld = {"@context": "https://schema.org", "@type": "Product", "name": "Sketchbot designer vinyl toy", "brand": {"@type": "Brand", "name": "Sketchbot Studios"}, "image": BASE_URL + img(sb['items'][2]['file']), "description": "5.5-inch retro-styled pencil-wielding robot vinyl figure by Steve Talkowski."}
-    write('shop/index.html', layout(title='Shop — Sketchbot designer vinyl toy | Sketchbot Studios', desc='The Sketchbot designer vinyl toy by Steve Talkowski: editions, variants and how to get one.', body=body, path='/shop/', section='shop', og_image=img(sb['items'][2]['file']), jsonld=ld))
+    write('shop/index.html', layout(title='Shop — Sketchbot designer vinyl toy | Sketchbot Studios', desc='The Sketchbot designer vinyl toy by Steve Talkowski: editions, variants and how to get one.', body=body, path='/shop/', section='shop', og_image=img(sb['items'][2]['file']), jsonld=ld, keywords=['Sketchbot vinyl toy', 'designer toy', 'art toy', 'vinyl figure', 'My Plastic Heart', 'DesignerCon'], og_alt='Sketchbot V1 vinyl figure with its box'))
 
 # ----------------------------------------------------------------------------- NEWS
 man = json.load(open(ROOT / 'archive/images/manifest.json'))
@@ -787,7 +825,7 @@ def page_news():
   <div class="page-head"><p class="eyebrow eyebrow--orange">News</p><h1>The studio blog</h1><p>{len(posts)} posts since November 2007: the making of Sketchbot, custom shows, conventions, tutorials, studio life, and the move into spatial computing. <a href="/feed.xml">RSS</a>.</p><div class="year-nav">{ynav}</div></div>
   <div class="post-list">{rows}</div>
 </div></section>'''
-    write('news/index.html', layout(title='News — Sketchbot Studios blog', desc=f'The Sketchbot Studios blog: {len(posts)} posts on the making of the Sketchbot designer toy, custom shows, conventions, 3D tutorials and Apple Vision Pro work.', body=body, path='/news/', section='news', og_image=img(by_slug['sketchbot']['items'][0]['file'])))
+    write('news/index.html', layout(title='News — Sketchbot Studios blog', desc=f'The Sketchbot Studios blog: {len(posts)} posts on the making of the Sketchbot designer toy, custom shows, conventions, 3D tutorials and Apple Vision Pro work.', body=body, path='/news/', section='news', og_image=img(by_slug['sketchbot']['items'][0]['file']), keywords=['Sketchbot blog', 'studio news', 'designer toy blog', '3D tutorials', 'custom toy shows'], og_alt='Sketchbot designer vinyl toy with pencil'))
     for i, p in enumerate(posts):
         prev = posts[i + 1] if i + 1 < len(posts) else None; nxt = posts[i - 1] if i > 0 else None
         pager = '<div class="pager mt-3">' + (f'<a class="card card--pad" href="/news/{prev["slug"]}/"><p class="eyebrow">← Older</p><h3>{esc(prev["title"])}</h3></a>' if prev else '<span></span>') + (f'<a class="card card--pad" href="/news/{nxt["slug"]}/" style="text-align:right"><p class="eyebrow">Newer →</p><h3>{esc(nxt["title"])}</h3></a>' if nxt else '') + '</div>'
@@ -802,7 +840,7 @@ def page_news():
   {pager}
 </div></section></article>'''
         ld = {"@context": "https://schema.org", "@type": "BlogPosting", "headline": p['title'], "datePublished": p['dt'].isoformat() if p['dt'] else None, "author": {"@id": BASE_URL + "/#steve"}, "publisher": {"@id": BASE_URL + "/#org"}, "url": BASE_URL + f'/news/{p["slug"]}/', "image": BASE_URL + img(p['image']) if p.get('image') else None}
-        write(f'news/{p["slug"]}/index.html', layout(title=f'{p["title"]} — Sketchbot Studios', desc=p['excerpt'][:200], body=body, path=f'/news/{p["slug"]}/', section='news', og_image=img(p['image']) if p.get('image') else None, jsonld={k: v for k, v in ld.items() if v}, kind='article'))
+        write(f'news/{p["slug"]}/index.html', layout(title=f'{p["title"]} — Sketchbot Studios', desc=p['excerpt'][:200], body=body, path=f'/news/{p["slug"]}/', section='news', og_image=img(p['image']) if p.get('image') else None, jsonld={k: v for k, v in ld.items() if v}, kind='article', keywords=[p['title'], *[t.strip(chr(34)) for t in p['tags']]], og_alt=p['title'], published=p['dt'].date().isoformat() if p['dt'] else None))
 
 # ----------------------------------------------------------------------------- misc files
 def page_404():
@@ -861,7 +899,8 @@ def main():
     misc(urls)
     # OG default
     og = SITE / 'assets/og'; og.mkdir(parents=True, exist_ok=True)
-    shutil.copy(SITE / img(by_slug['3d-misc']['items'][5]['file']).lstrip('/'), og / 'default.jpg')
+    card = og_card('/assets/img/full/5d625869_DAY_04_KS_V2_for_coverPage.jpg')
+    if card.startswith('/assets/og/'): shutil.copy(SITE / card.lstrip('/'), og / 'default.jpg')
     n = sum(1 for _ in SITE.rglob('*.html'))
     print(f'built {n} pages → {SITE}')
 
