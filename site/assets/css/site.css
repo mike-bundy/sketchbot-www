@@ -115,7 +115,6 @@
   ::view-transition-new(root) { animation: vt-in .38s var(--ease) both; }
   @keyframes vt-out { to { opacity: 0; transform: translateY(-6px); } }
   @keyframes vt-in { from { opacity: 0; transform: translateY(10px); } }
-  .site-header { view-transition-name: header; }
   .hero-media { view-transition-name: hero-media; }
 }
 
@@ -140,12 +139,19 @@
   .skip:focus { top: 1rem; }
   .site-header { position: sticky; top: 0; z-index: 50; padding-block: .75rem; }
   .site-header .bar {
+    position: relative; isolation: isolate;
     display: flex; align-items: center; gap: 1rem; justify-content: space-between;
     padding: .55rem .75rem .55rem 1rem; border-radius: 999px;
-    background: color-mix(in oklab, var(--bg) 72%, transparent);
-    -webkit-backdrop-filter: blur(20px) saturate(160%); backdrop-filter: blur(20px) saturate(160%);
     border: 1px solid var(--line); box-shadow: 0 10px 40px rgba(0,0,0,.25);
   }
+  /* The blur lives on a pseudo-element: putting backdrop-filter on the sticky bar itself makes Safari
+     paint child backgrounds (the nav hover pill) at a stale scroll offset. */
+  .site-header .bar::before {
+    content: ""; position: absolute; inset: 0; z-index: -1; border-radius: inherit;
+    background: color-mix(in oklab, var(--bg) 72%, transparent);
+    -webkit-backdrop-filter: blur(20px) saturate(160%); backdrop-filter: blur(20px) saturate(160%);
+  }
+  .nav a, .theme-toggle, .nav-toggle { transform: translateZ(0); }
   .brand { display: inline-flex; align-items: center; gap: .6rem; font-weight: 800; letter-spacing: -.01em; font-size: 1.05rem; }
   .brand img { width: 30px; height: 30px; border-radius: 50%; }
   .brand small { font-weight: 600; color: var(--fg-3); font-size: .8rem; margin-left: .2rem; }
