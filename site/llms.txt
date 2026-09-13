@@ -1,0 +1,45 @@
+# Sketchbot Studios
+
+> The character-driven 3D studio of Steve Talkowski (Los Angeles). Thirty years of animation for brands and film, creator of the Sketchbot designer toy, and professional tools and services for Apple Vision Pro.
+
+Contact: steve@sketchbot.tv
+
+## Spatial computing (Apple Vision Pro)
+- [Overview](/spatial/): the studio's Apple Vision Pro work
+- [Quads](/spatial/quads/): spatial box modeler for Apple Vision Pro (coming soon; https://quads.vision)
+- [Immersive website environments](/spatial/environments/): TRON The Grid and the Backrooms, full-immersion Safari environments
+- [USDZ asset production](/spatial/assets/): characters, props and environments for RealityKit, Quick Look and Safari
+- [Radial Menu](/spatial/radial-menu/): open-source tunable menu for visionOS/macOS/iPadOS/iOS (https://github.com/stevetalkowski/radial-menu)
+- [Services](/spatial/services/): spatial character design, visionOS app design, environments, pipelines, SharePlay, training
+- [Lab](/spatial/lab/): experiments and field notes
+
+## Studio
+- [Work](/work/): 23 projects
+- [Sketchbot Designer Vinyl Toy](/work/sketchbot/): The retro-styled, pencil-wielding robot that started the studio. Self-produced from sketch to sculpt to 3D print to rotocast vinyl, Sketchbot launched in 2010 and spawned five colourway variants, resin exclusives and two sold-out DIY custom shows in NYC and LA.
+- [Afternoon At The Museum](/work/afternoon-at-the-museum/): Proof of concept for the Epic Games MegaGrant: the Eye Pilots wander a brutalist museum of robots, rendered in real time in Unreal Engine.
+- [The Museum of Untold Possibilities](/work/museum-of-untold-possibilities/): CoCo VR meets the World of Sketchbot. A MegaGrant pitch for a non-game VR museum with timed exhibitions, an AI robot docent and an Art Lab where visitors build and 3D-print their own robots.
+- [Jammin' Alpacas](/work/jammin-alpacas/): A stylised animated short: a band of alpacas, a space billboard and a lot of attitude. Full character pipeline from design through final render.
+- [Autodesk Maya M4Y4](/work/autodesk-maya-m4y4/): The official mascot for Autodesk Maya's Learning Channel. Designed, modeled and rendered to be real-time compliant so it lives inside the Maya viewport for training content.
+- [GIBCO Cells](/work/gibco-cells/): Cell characters for GIBCO by Thermo Fisher Scientific: appealing, on-brand personalities for life-science media.
+- [SCOOB! 3D Concept Art](/work/scoob-concept-art/): 3D concept tests for the Mean Machine in Warner Animation Group's SCOOB!
+- [Adobe VR Bot](/work/adobe-vr-bot/): A neon-lit robot for Adobe's VR storytelling push: a headset-wearing bot sculpting light in a smoky, tube-lit warehouse.
+- [Backrooms](/work/backrooms/): Sketchbot lost in the liminal office. Built as a fully immersive USDZ environment for Apple Vision Pro Safari website environments.
+- [BuddhaBot](/work/buddhabot/): The serene sacred robot at the end of the Eye Pilots' journey. Cover of 3D World issue 191.
+- [KeyShot 6 Avatar](/work/keyshot-6-avatar/): The official avatar robot for the KeyShot 6 launch, with a four-page making-of tutorial in 3D World #198.
+- [Beats by Dre](/work/beats-by-dre/): A cast of stylised characters for Beats by Dre: pirates, Elvis, gift-box Kingston and more.
+- [Inktober 2012](/work/inktober-2012/): Thirty-one days of ink robots.
+- [Botober 2013](/work/botober-2013/): Inktober, but in 3D: a robot modeled and rendered every day.
+- [March of Robots 2014](/work/march-of-robots-2014/): The studio's first March of Robots, Dacosta Bayley's yearly robot-a-day challenge.
+- [March of Robots 2016](/work/march-of-robots-2016/): Twenty-seven robots in thirty-one days, from arcade cabinets to walking cameras.
+- [RefBot](/work/refbot/): The referee robot made for the World Cup show at Crewest LA.
+- [TikiBot](/work/tikibot/): From a sketchbook page to a carved-wood tiki robot, with process screenshots along the way.
+- [Browser Bots](/work/browser-bots/): Every web browser as a robot. Chrome, Firefox, Safari, Opera, Internet Explorer and Verold, plus the group shot.
+- [3D Miscellany](/work/3d-misc/): Thirty-nine odds and ends: Meet Mat Sketchbot, HeartBot, OctoBot Beach Patrol, USBot, VoteBots, holiday cards, hex-mesh ZBrush studies and the VR Eye Pilot.
+- [Pumpkin Giant](/work/pumpkin-giant/): A towering jack-o'-lantern robot, test-rendered in three colourways.
+- [Surge Protector](/work/surge-protector/): A Disney-style modeling test inspired by Bill Schwab's Wreck-It Ralph concept art.
+- [TRON Immersive](/work/tron-immersive/): An homage to the 1982 original, built as the studio's first spatial website environment for Apple Vision Pro. Step onto The Grid from Safari, with a Recognizer and a Tank rendered stereoscopically in the page.
+- [Demo reel](/reel/)
+- [About](/about/)
+- [News](/news/): 200 blog posts, 2007–2015
+- [Shop](/shop/): the Sketchbot vinyl toy
+- [Contact](/contact/)

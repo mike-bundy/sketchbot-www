@@ -1,0 +1,3437 @@
+{
+ "3d-misc-1": {
+  "slug": "3d-misc-1",
+  "title": "3D MISC",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/3d-misc-1",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e983e99c-a738-4a2d-b1d1-e41167e9a212/steve-talkowski-meetmat-sb.jpg",
+    "file": "images/d93c22cf_steve-talkowski-meetmat-sb.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 991,
+    "h": 991
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/af729862-815f-4e39-92cf-d4c357859bb7/heartBot.jpg",
+    "file": "images/87717c4c_heartBot.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617163777608-1KR6X17F5AASPVJ20G2Y/sketchbotPilotClipboard.png",
+    "file": "images/dd6ba955_sketchbotPilotClipboard.png",
+    "alt": "",
+    "caption": "",
+    "w": 599,
+    "h": 599
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420744771270-2KC0DHITPYZL0WK8SM83/octoBot_beach_patrol.jpg",
+    "file": "images/f31ef199_octoBot_beach_patrol.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1667
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/29569606-9622-484c-9657-928a5a8ab926/steve-talkowski-usbot.jpg",
+    "file": "images/c34e21ac_steve-talkowski-usbot.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1205,
+    "h": 1205
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617080704671-GN0H7GXWPKQ1WKLFJYM6/VR_eyePilot.0002.jpg",
+    "file": "images/9e1d88e0_VR_eyePilot.0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1915,
+    "h": 1078
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/5a0153ab-ece8-4329-b7dc-6cbf81daecbb/steve-talkowski-adobebot-3-0013.jpg",
+    "file": "images/41922757_steve-talkowski-adobebot-3-0013.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1415,
+    "h": 941
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1448990941562-79Z6WEBHK6DVDQ2HMZL5/image.jpg",
+    "file": "images/d1d128da_image.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1509,
+    "h": 1969
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1448990980652-Y4O16HXKR1INP53QZSNZ/image.jpg",
+    "file": "images/de9a7d85_image.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1509,
+    "h": 1969
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617160742685-826JJ41J2378TMXDCLYC/steve-talkowski-highresscreenshot00001.jpg",
+    "file": "images/5cc44043_steve-talkowski-highresscreenshot00001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617160810569-6N8R0IXX7OYRHP3I4B6A/steve-talkowski-highresscreenshot00006.jpg",
+    "file": "images/ebe62342_steve-talkowski-highresscreenshot00006.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/cdb26183-e947-43c0-ac5a-eba0a1a47737/steve-talkowski-votebots.jpg",
+    "file": "images/a326ff94_steve-talkowski-votebots.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617161069611-EBM5GFU52LL8232H54RC/steve-talkowski-stevetalkowski-nmb4-preview.jpg",
+    "file": "images/28299adf_steve-talkowski-stevetalkowski-nmb4-preview.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1811,
+    "h": 1183
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/200359eb-3342-46d6-a07d-e41c418e76c8/steve-talkowski-img-2226.jpg",
+    "file": "images/3c89cdd9_steve-talkowski-img-2226.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1010,
+    "h": 1010
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/102c0e95-5fe7-44bf-8de3-612f40dfceed/steve-talkowski-img-2220.jpg",
+    "file": "images/975f2fbd_steve-talkowski-img-2220.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1238,
+    "h": 973
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/44c8f509-6cc5-4972-b06e-4e525e3f0d70/steve-talkowski-img-2236.jpg",
+    "file": "images/cf2ef33c_steve-talkowski-img-2236.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1123,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/38106e14-d3ed-4e79-bc74-13c1468da7e0/steve-talkowski-candycornbot.jpg",
+    "file": "images/850f8462_steve-talkowski-candycornbot.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 997,
+    "h": 997
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420596089592-TIUHC907DKCN5MJ4S3PS/custom_show_renderTest_V1.jpg",
+    "file": "images/b797a232_custom_show_renderTest_V1.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1998,
+    "h": 1124
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420745042958-6LZ6YY28BS87NQ8R664U/cover_mockup-V3e_imageOnly.jpg",
+    "file": "images/02fe8c1e_cover_mockup-V3e_imageOnly.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3306
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595425523-JU0I08OOSI1NZ6HOCXBU/Talkowski_NewMoon_FullSize.jpg",
+    "file": "images/ddb6360b_Talkowski_NewMoon_FullSize.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1618
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595870077-XXS0Y4R9RCQIG2F3P82W/sb_madl.0330b.jpg",
+    "file": "images/e7fa789c_sb_madl.0330b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1280,
+    "h": 720
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595321132-9EG6IAZ1JGF8ZZ1BER96/xmas_warrior_pose_V4c_half.jpg",
+    "file": "images/37f52fee_xmas_warrior_pose_V4c_half.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1772,
+    "h": 1329
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595452952-J38N9YUQPC1RA141DRYG/sb_happy_holidays.jpg",
+    "file": "images/8a93d092_sb_happy_holidays.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1280,
+    "h": 780
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/f339640e-0276-4ce1-8c78-d2b9ed734b29/steve-talkowski-sb-holding-lights-full-0015.jpg",
+    "file": "images/f7a2b28e_steve-talkowski-sb-holding-lights-full-0015.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1200
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595641212-QT5GDN9Q7NGN92DD2GRM/ixi_still_FINAL.jpg",
+    "file": "images/c4046dca_ixi_still_FINAL.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595442416-5EEBPNTU9X8PZ2AOGA3A/TV_morph_start.png",
+    "file": "images/1bdbc914_TV_morph_start.png",
+    "alt": "",
+    "caption": "",
+    "w": 1280,
+    "h": 720
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420595441243-2FUX29MKICFVDBC2C13N/TV_morph_end.png",
+    "file": "images/a4e6799a_TV_morph_end.png",
+    "alt": "",
+    "caption": "",
+    "w": 1280,
+    "h": 720
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/055ec9a0-08e0-4f08-ac93-3d5dc35fbbaf/loki.jpg",
+    "file": "images/f35370a1_loki.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1440,
+    "h": 1079
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/3b8f22d8-601e-424a-9b39-932a59bef13e/steve-talkowski-gol-d-bot-0001.jpg",
+    "file": "images/d1345ac1_steve-talkowski-gol-d-bot-0001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/c7c62cb2-e95c-4066-9f1c-f04878525ced/steve-talkowski-img-0099.jpg",
+    "file": "images/4c430b19_steve-talkowski-img-0099.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1200,
+    "h": 1200
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/69d75368-693b-44df-868b-3c1995d39884/steve-talkowski-mannequin-run-pose-0004.jpg",
+    "file": "images/b40d2780_steve-talkowski-mannequin-run-pose-0004.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1431,
+    "h": 911
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/cd05e90d-090c-4bd6-9fc7-a11935751f4e/steve-talkowski-sketchbot-sd-blue.jpg",
+    "file": "images/9c63b21c_steve-talkowski-sketchbot-sd-blue.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2161,
+    "h": 1288
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/fef074f6-1b11-4703-851a-b6ed20ef6f6d/steve-talkowski-spherehex-2022-0011.jpg",
+    "file": "images/a24983cf_steve-talkowski-spherehex-2022-0011.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1438,
+    "h": 941
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/36759d05-18ac-45d9-aeb0-08b34bab016e/steve-talkowski-stickerbot-v1-grunge.jpg",
+    "file": "images/9cba6e29_steve-talkowski-stickerbot-v1-grunge.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/5514bfa3-27d1-408c-8ca8-0abbc59c6909/steve-talkowski-skullbot-v2-0001.jpg",
+    "file": "images/2f4f82a2_steve-talkowski-skullbot-v2-0001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/7f9aa410-65df-4518-b234-820dc668ac09/steve-talkowski-steve-talkowski-maskplay-threeteeth.jpg",
+    "file": "images/bb8af8b6_steve-talkowski-steve-talkowski-maskplay-threeteeth.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2488,
+    "h": 1277
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/22120a39-4eee-4ab4-9e71-fba698e66dc5/steve-talkowski-steve-talkowski-mechhex-07.jpg",
+    "file": "images/11341a7d_steve-talkowski-steve-talkowski-mechhex-07.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2488,
+    "h": 1277
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/4f5ac300-03fc-4dba-8319-7cef3aa8cc3e/steve-talkowski-steve-talkowski-threeteeth-01.jpg",
+    "file": "images/f100a80b_steve-talkowski-steve-talkowski-threeteeth-01.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2488,
+    "h": 1277
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b66f6c1e-98a4-465c-a4d0-3ccffbf47358/steve-talkowski-zbrush-ipx-alienhex-v2.jpg",
+    "file": "images/3679dd2d_steve-talkowski-zbrush-ipx-alienhex-v2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1467
+   }
+  ],
+  "nav_title": "3D MISC",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "about": {
+  "slug": "about",
+  "title": "ABOUT",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/about",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1413264644443-AQAPGU3FRVVLEDCIDM8Q/about_image.jpg",
+    "file": "images/5bd5fd4a_about_image.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 842,
+    "h": 566
+   }
+  ],
+  "nav_title": "ABOUT",
+  "videos": [],
+  "headings": [
+   "Steve Talkowski"
+  ],
+  "paragraphs": [
+   "A 20+ year veteran of the computer animation scene, I have worked as an Art Director, Animation Director, Character Designer/Modeler and Animator on hundreds of national brands ranging from Beats by Dre, BMW, Pepsi, General Mills, Target, Reese's and M&M's, to the feature films Joe's Apartment, Ice Age, Alien Resurrection and the 1988 Academy Award winning short, Bunny.",
+   "In 2008, I launched Sketchbot Studios and self-produced my first foray into the designer toy scene - the retro-styled, pencil-wielding robot, Sketchbot. In 2010, the Sketchbot platform served as the basis for two highly successful DIY custom shows held in NYC and LA.",
+   "Recently relocated to Los Angeles, CA, I am currently in development bringing my robot creations to life as an animated series."
+  ]
+ },
+ "adobe_vr_bot5": {
+  "slug": "adobe_vr_bot5",
+  "title": "Adobe_VR_Bot",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/adobe_vr_bot5",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1fd7021e-9386-4143-883f-c02a71b027f3/steve-talkowski-bokeh-bkgnd-v2-current-view.jpg",
+    "file": "images/14d84f7c_steve-talkowski-bokeh-bkgnd-v2-current-view.jpg",
+    "alt": "steve-talkowski-bokeh-bkgnd-v2-current-view.jpg",
+    "caption": "",
+    "w": 1250,
+    "h": 1000
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1394ecef-c61a-4fe5-8034-9eaed020f815/steve-talkowski-vr-bot-neontubes-view-1-medium.jpg",
+    "file": "images/2f3f90e9_steve-talkowski-vr-bot-neontubes-view-1-medium.jpg",
+    "alt": "steve-talkowski-vr-bot-neontubes-view-1-medium.jpg",
+    "caption": "",
+    "w": 1875,
+    "h": 875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ff6530b7-79e7-4710-b112-be8a12c83f73/steve-talkowski-vr-bot-smokey-spotlight.jpg",
+    "file": "images/e6c856a1_steve-talkowski-vr-bot-smokey-spotlight.jpg",
+    "alt": "steve-talkowski-vr-bot-smokey-spotlight.jpg",
+    "caption": "",
+    "w": 1250,
+    "h": 875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ded2a115-a391-43bb-a25b-d9ed601a8d6b/steve-talkowski-vr-bot-warehouse-solo-v2-current-view.jpg",
+    "file": "images/dace1984_steve-talkowski-vr-bot-warehouse-solo-v2-current-view.jpg",
+    "alt": "steve-talkowski-vr-bot-warehouse-solo-v2-current-view.jpg",
+    "caption": "",
+    "w": 1840,
+    "h": 1228
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e547c3ac-e3ee-4450-8671-05d978bfce9a/steve-talkowski-vr-bot-smokey-spotlight-rear.jpg",
+    "file": "images/0bcdd005_steve-talkowski-vr-bot-smokey-spotlight-rear.jpg",
+    "alt": "steve-talkowski-vr-bot-smokey-spotlight-rear.jpg",
+    "caption": "",
+    "w": 1250,
+    "h": 875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/598b7e83-80c4-4a86-9539-2827e1d8cab5/steve-talkowski-vr-bot-pose-v1-0023.jpg",
+    "file": "images/1708a630_steve-talkowski-vr-bot-pose-v1-0023.jpg",
+    "alt": "steve-talkowski-vr-bot-pose-v1-0023.jpg",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/75405432-5c27-4d5e-bf17-c326009a90f7/steve-talkowski-vr-bot-pose-v1-0018.jpg",
+    "file": "images/bca001ac_steve-talkowski-vr-bot-pose-v1-0018.jpg",
+    "alt": "steve-talkowski-vr-bot-pose-v1-0018.jpg",
+    "caption": "",
+    "w": 1381,
+    "h": 941
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1d77f461-2f2d-4279-86e5-02b48340ef63/steve-talkowski-vr-bot-pose-v1-0012.jpg",
+    "file": "images/86b88343_steve-talkowski-vr-bot-pose-v1-0012.jpg",
+    "alt": "steve-talkowski-vr-bot-pose-v1-0012.jpg",
+    "caption": "",
+    "w": 1415,
+    "h": 941
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/5c97202e-7460-4f92-bdef-61e5857ca33f/steve-talkowski-stevetalkowski-2020-06-30-18-17-28.jpg",
+    "file": "images/54807ae0_steve-talkowski-stevetalkowski-2020-06-30-18-17-28.jpg",
+    "alt": "steve-talkowski-stevetalkowski-2020-06-30-18-17-28.jpg",
+    "caption": "",
+    "w": 2500,
+    "h": 1667
+   }
+  ],
+  "nav_title": "Adobe_VR_Bot",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "backrooms": {
+  "slug": "backrooms",
+  "title": "backrooms",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/backrooms",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/8c24b9f2-841d-452e-bedb-eee3e2b7e02b/backrooms_SB-03.png",
+    "file": "images/9d642038_backrooms_SB-03.png",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   }
+  ],
+  "nav_title": "backrooms",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "beats-by-dre-1": {
+  "slug": "beats-by-dre-1",
+  "title": "Beats By Dre",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/beats-by-dre-1",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660628245-EIXHI6D0MQM5PK6KB2KM/white_and_red_videoGame.jpg",
+    "file": "images/0587d5bb_white_and_red_videoGame.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1250
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660621377-RQYDI5FV5HGFZJMUCBDP/LUKE_RELAXED.jpg",
+    "file": "images/9411db50_LUKE_RELAXED.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1800,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660623865-XG1FIKRKJJSHHO4DVBQ1/silverPirate_V2b.jpg",
+    "file": "images/afe5aa87_silverPirate_V2b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660624222-BEX5VAGZCXHDJLNPNCZ7/red_in_yellow_coat_V3.jpg",
+    "file": "images/38a28d6c_red_in_yellow_coat_V3.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2000,
+    "h": 2000
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660621292-JLDNFIMLD8TV2G3JWYY7/Kingston_w_tools_PILLYWOOD.jpg",
+    "file": "images/5616508a_Kingston_w_tools_PILLYWOOD.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660622796-FEYMZGCDN34EIDXB2INH/mikey_Elvis_V3.jpg",
+    "file": "images/325daa1b_mikey_Elvis_V3.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660625955-UQ0Z4ASGI9T3PWNDX6A3/snow_bkgnd_mockup.jpg",
+    "file": "images/c249938b_snow_bkgnd_mockup.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1029,
+    "h": 1029
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660615947-CGBV9RMUNV8IB288KEL2/BEATS_SNOW_MAN_card_300dpi.jpg",
+    "file": "images/acd8edb4_BEATS_SNOW_MAN_card_300dpi.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2100,
+    "h": 1500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660619339-C5KQ4DXX4TGV9DTKRV06/Kingston_pouring_coffee_V3c.jpg",
+    "file": "images/cf4e2781_Kingston_pouring_coffee_V3c.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660620393-5TD4XAXTO3KEM29KK51Q/lady_liberty.jpg",
+    "file": "images/7465498e_lady_liberty.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660617480-5OFIUGIOWXCFOHLNGYK0/character_w_package_V2_white.jpg",
+    "file": "images/8896c617_character_w_package_V2_white.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1041
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660618503-Z4WO5U0P2ZFQCU6YJJKB/Kingston_in_giftbox_TV.jpg",
+    "file": "images/839e8ee2_Kingston_in_giftbox_TV.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660616915-V6LD7MCCWMXNXXE2LBHM/Classy_Tina.jpg",
+    "file": "images/82049e61_Classy_Tina.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660622153-5UV4NIU4CT3DJAJ99AES/MISTLETOE_TV_V2.jpg",
+    "file": "images/b1297d4a_MISTLETOE_TV_V2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660628811-KVU6ONYCA176LI8BL8UP/white_w_dreadlocks.jpg",
+    "file": "images/eb4c73f2_white_w_dreadlocks.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1563
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420660615727-28WKI9XNTTWF721QQUTM/Black_Friday_MMA.jpg",
+    "file": "images/619a6995_Black_Friday_MMA.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2000,
+    "h": 2000
+   }
+  ],
+  "nav_title": "Beats By Dre",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "botober2013": {
+  "slug": "botober2013",
+  "title": "Botober 2013",
+  "type": "page",
+  "description": "These were my contributions to the daily #Botober sketch challenge, which coincided with #Inktober. \u00a0I would do a 20 minute sketch first thing in the morning, then jump into Maya to create the 3D version. \u00a0Imported these models into Keyshot3D for final render.",
+  "url": "https://www.sketchbot.tv/botober2013",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740076569-MW5RNVB8BYBGLMQSHY1F/day_01_testRender2_crop.jpg",
+    "file": "images/1469ea0b_day_01_testRender2_crop.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1039,
+    "h": 1040
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740080876-ULB00P2BP6MB2H0A4X5C/Botober_Day2_3d2.jpg",
+    "file": "images/6031def2_Botober_Day2_3d2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 810,
+    "h": 810
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740103893-8BO27GATQT11WQYKZXZ5/Day_3d_crop2.jpg",
+    "file": "images/984445ff_Day_3d_crop2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 806,
+    "h": 806
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740111083-PNAXN8T3XSMTJQWNJN3K/Day_04_render_1024.jpg",
+    "file": "images/f7ffe2aa_Day_04_render_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740118399-1HDBIBXRO0IXI1GVPE1Q/Botober_Day_05_1024.jpg",
+    "file": "images/97ca1cd4_Botober_Day_05_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740121508-3OZAJ3JVMG1AFYXRFJ9K/Botober_Day_06_1024.jpg",
+    "file": "images/0df4b924_Botober_Day_06_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740124286-PECSNDSR8PGWAYY5VKA5/Botober_Day_07_1024.jpg",
+    "file": "images/f55699f4_Botober_Day_07_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740127015-F34DW1KT3N5VK5OPJV0J/Botober_Day_08_square_1024.jpg",
+    "file": "images/227371fe_Botober_Day_08_square_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740130836-XKEDXXPMIVD3SWRE9VDS/Botober_Day_09_square_1024.jpg",
+    "file": "images/e481850c_Botober_Day_09_square_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740135586-E42T6YO6ZPFVT9V8ZJQX/Botober_Day_10_IG.JPG",
+    "file": "images/b84b363c_Botober_Day_10_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740138735-I4DVQ2MLAG3YGZ839GYE/Botober_Day_11_IG.jpg",
+    "file": "images/349c3fed_Botober_Day_11_IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740141762-HJ3QNV6C5DD2IUZ30UVU/Botober_Day_12.jpg",
+    "file": "images/b037234b_Botober_Day_12.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740145313-74UXTUONTAT6YLQUZCEX/Botober_Day_13_IG2.jpg",
+    "file": "images/3d68b526_Botober_Day_13_IG2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740147624-092LQ0QX8TO82KEIDO2N/Botober_Day_14_SQ_IG.jpg",
+    "file": "images/7e5477d0_Botober_Day_14_SQ_IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740149894-SC7F1L0A5847SHX1982G/Botober_Day_15_SQ.jpg",
+    "file": "images/f0dcb315_Botober_Day_15_SQ.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740153094-9EOZI7DQC3AA96JEM4NP/Botober_Day_16_SQ.jpg",
+    "file": "images/41f53537_Botober_Day_16_SQ.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1081
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740155356-JS04DPDYZDGLEK3N5L0J/Botober_Day_17_SQ2.jpg",
+    "file": "images/4b5ddd9d_Botober_Day_17_SQ2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740157297-MYFYA2S9LORSFOFSUBW2/Botober_Day_18_SQ_1024.jpg",
+    "file": "images/c80bb77f_Botober_Day_18_SQ_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1412740162226-L0VGDXJARSY8MLVWX851/botober_day_19_IG-2.jpg",
+    "file": "images/e0d21d85_botober_day_19_IG-2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   }
+  ],
+  "nav_title": "Botober 2013",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "browserbots-1": {
+  "slug": "browserbots-1",
+  "title": "BrowserBots",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/browserbots-1",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656483589-ZFIAPBFPT2CN3B1EVW0T/browserBots_groupShot_V2.jpg",
+    "file": "images/66ea04d9_browserBots_groupShot_V2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1890,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656391395-GX89Z3LD2515IJ4JFU2D/browserBot_verold.jpg",
+    "file": "images/ce319062_browserBot_verold.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656389014-S5TTMMUCCRWO30B0IY15/browserBot_chrome.jpg",
+    "file": "images/66b78f6f_browserBot_chrome.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656388668-P25EMSQMFXIU8U427MC6/browserBot_firefox.jpg",
+    "file": "images/62e3b3de_browserBot_firefox.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656389434-LOUZJ9C4RZP8WC0MYMM1/browserBot_ie.jpg",
+    "file": "images/b6a82f01_browserBot_ie.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656390822-WWHFTOCK6MJA0KX51DM0/browserBot_opera.jpg",
+    "file": "images/b61e0eb6_browserBot_opera.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656390196-8TVMD62NBL2O01FVOB40/browserBot_safari.jpg",
+    "file": "images/022b31cd_browserBot_safari.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420656408680-E6LOV0TGYX9OCVIXDUAI/browserBots.jpg",
+    "file": "images/8490c55d_browserBots.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1694,
+    "h": 1110
+   }
+  ],
+  "nav_title": "BrowserBots",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "buddhabot": {
+  "slug": "buddhabot",
+  "title": "BuddhaBot",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/buddhabot",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420596983948-ZI3ME45239X094XEX5DV/buddhaBot_V2_white_w_eye.jpg",
+    "file": "images/62cce4ed_buddhaBot_V2_white_w_eye.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1975
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420596964329-OBFYHZQ31OQGOH98J3ES/buddhaBot_V3_over_black_FINAL.jpg",
+    "file": "images/754e9450_buddhaBot_V3_over_black_FINAL.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1000,
+    "h": 790
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1421353456053-TIC24GORM5MHMGJ3ENMW/buddhaBot-yellow02.jpg",
+    "file": "images/6080e20a_buddhaBot-yellow02.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420596863157-WFVAGAU79PMJWZNOOEVO/TDW191.cover.jpg",
+    "file": "images/44d3a8cf_TDW191.cover.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1313,
+    "h": 1774
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420597001270-3HK7YZ292I9IXD47SZ88/buddhaBot_originalSketch.jpg",
+    "file": "images/73cf3509_buddhaBot_originalSketch.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1296,
+    "h": 968
+   }
+  ],
+  "nav_title": "BuddhaBot",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "commissioned": {
+  "slug": "commissioned",
+  "title": "Commissioned",
+  "type": "folders",
+  "description": "",
+  "url": "https://www.sketchbot.tv/commissioned",
+  "items": [],
+  "nav_title": "Commissioned",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "contact": {
+  "slug": "contact",
+  "title": "CONTACT",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/contact",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420672560981-HDIP4SS6MZ0WGXWTU5Z2/download.jpeg",
+    "file": "images/d9102af7_download.jpeg",
+    "alt": "",
+    "caption": "",
+    "w": 2333,
+    "h": 1555
+   }
+  ],
+  "nav_title": "CONTACT",
+  "videos": [],
+  "headings": [
+   "Upcoming Gig? Let\u2019s Talk."
+  ],
+  "paragraphs": [
+   "Feel free to contact me regarding any upcoming projects! Please include a short description, estimated budget, and deadline.",
+   "I'm currently available for Art Direction,\u00a0Animation Directing, Character/Concept Design and 3D Modeling (Maya, ZBrush)",
+   "Additional storyboards, supporting imagery and NDA's can be eMailed directly to\u00a0steve@sketchbot.tv"
+  ]
+ },
+ "cover-page": {
+  "slug": "cover-page",
+  "title": "COVER PAGE",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617163719800-5YTI9BEJPVKY8HACJ1F2/sketchbotPilotClipboard.png",
+    "file": "images/0598d387_sketchbotPilotClipboard.png",
+    "alt": "sketchbotPilotClipboard.png",
+    "caption": "",
+    "w": 599,
+    "h": 599
+   }
+  ],
+  "nav_title": "COVER PAGE",
+  "videos": [],
+  "headings": [
+   "Design. Create. Animate.",
+   "Welcome to Sketchbot Studios",
+   "Dream it.",
+   "Build it.",
+   "Grow it.",
+   "Sell it.",
+   "VR it."
+  ],
+  "paragraphs": []
+ },
+ "demo-reel": {
+  "slug": "demo-reel",
+  "title": "DEMO REEL",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/demo-reel",
+  "items": [],
+  "nav_title": "DEMO REEL",
+  "videos": [],
+  "headings": [
+   "Demo Reel"
+  ],
+  "paragraphs": [
+   "Steve Talkowski 2012 Demo Reel from Steve Talkowski on Vimeo.",
+   "My 2012 demo includes new spots for TruGreen, Cocoa Puffs, Honey Nut Cheerios, SanDisk, TheraFlu, Efficiency Vermont, Sticker Book Inc., Yoplait, Capital Cube, and many more.",
+   "Shot Breakdown:",
+   "Sketchbot MAD*L \u2013 Modeling, Animation, Lighting, Render",
+   "TruGreen \u2013 On-set VFX Supervisor, Modeling, Camera Tracking, Lighting, Render, Composite",
+   "Cocoa Puffs \u2013 Entire chocolate environment 3d modeled to match 2d master plate, animation, particles, lighting,render",
+   "Yoplait \u2013 Modeling, Animation, Lighting, Render, Composite",
+   "Theraflu \u2013 Modeling, Animation, Lighting, Render, Composite",
+   "Sketchbot Cubez \u2013 Modeling, Animation, Lighting, Render",
+   "Cocoa Puffs \u2013 Entire chocolate environment 3d modeled to match 2d master plate, animation, particles, lighting,render",
+   "Honey Nut Cheerios \u2013 Rigging, Animation, Lighting, Render, Composite",
+   "Jim JigSaw \u2013 Environment Design, Character Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "Efficiency Vermont \u2013 Environment and Character Modeling, Rigging, Animation",
+   "Capital Cube \u2013 Character Design and Modeling, Rigging, Animation, Lighting, Render",
+   "Sony Ericsson \u2013 Character Animation",
+   "SanDisk \u2013 Character Design and Modeling, Rigging, Animation, Lighting, Render",
+   "TV Morph\u00a0\u2013\u00a0All Modeling, Animation, Lighting, Render, Composite",
+   "Monster Swipe \u2013 Rigging, Animation, Textures, Lighting, Render, Composite",
+   "SciFi Cheerios \u2013 Rigging, Animation, Lighting, Render",
+   "French\u2019s \u201cWandering Eye\u201d \u2013 Animation Director, VFX Supe, Camera Tracking, Character Design and Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "BMW \u201cAngels\u201d \u2013\u00a0Animation Director, VFX Supe, Camera Tracking, Rigging, Animation",
+   "Quaker \u201cThree Bears\u201d \u2013\u00a0Animation Director, VFX Supe, Camera Tracking, Rigging, Animation",
+   "Nasonex Bee Pitch \u2013 Character Design and Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "French\u2019s \u201cAnswering Machine\u201d \u2013\u00a0Animation Director, VFX Supe, Camera Tracking, Character Design and Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "Quaker \u201cRed Riding Hood\u201d \u2013\u00a0Animation Director, VFX Supe, Camera Tracking, Rigging, Animation",
+   "Panda Sun \u2013 Animation Director, Environment and Character Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "French\u2019s Beach Outtake \u2013 Animation Director, Character Design and Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "Reese\u2019s \u2013 Animation Director, Package, Product and Prop Modeling, Animation",
+   "Nickelodeon \u2013 Character and Environment Modeling, Rigging, Animation, Lighting, Render, Composite",
+   "Google Pitch \u2013 Character Design, Photoshop Artwork, After Effects Animation",
+   "Chapstick \u2013 Modeling, Animation",
+   "Canon PowerShot \u2013 Modeling, Animation, Lighting, Render, Composite",
+   "AT&T \u2013 Modeling, Animation, Textures, Lighting, Render, Composite",
+   "Band-Aid \u2013\u00a0Modeling, Animation, Textures, Lighting, Render, Composite",
+   "Trident \u2013 Modeling, Rigging, Animation",
+   "Capri-Sun \u2013 Modeling, Rigging, Camera Tracking, Animation",
+   "Marvel \u2013 Modeling, Rigging, Animation, Lighting, Render",
+   "Pepsi \u2013 Modeling, Rigging, Animation",
+   "GMC NFL \u2013 Modeling, Animation, Lighting, Render, Composite",
+   "MAC Cosmetics \u2013 Modeling, Rigging, Animation, Textures, Lighting, Render",
+   "Ice Breakers \u2013 Modeling, Animation, Textures, Lighting, Render",
+   "Mott\u2019s \u2013 Modeling, Rigging, Animation",
+   "Nickelodeon \u2013 Modeling, Rigging, Animation, Textures, Lighting, Render, Composite",
+   "Quaker \u201cThree Bears\u201d \u2013\u00a0Animation Director, VFX Supe, Camera Tracking, Rigging, Animation",
+   "Bunny \u2013 Animation",
+   "Outlet \u2013 Modeling, Animation, Lighting, Render",
+   "Coil Spring \u2013 Modeling, Animation, Lighting, Render",
+   "Ice Age \u2013 3D Layout Artist",
+   "Bambi \u2013 Modeling, Rigging, Animation, Rendered with 2D Toon Shader, Render, Composite",
+   "Mars Attack Pitch \u2013 Character Modeling, Rigging, Animation",
+   "Alien Resurrection \u2013 Character Rigger, Animator",
+   "Guavaroo \u2013 Character Design and Modeling, Rigging, Animation, Lighting, Render"
+  ]
+ },
+ "gibco": {
+  "slug": "gibco",
+  "title": "GIBCO",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/gibco",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/83c84769-a5fc-4f60-9a4a-92cb98b988f3/steve-talkowski-gibco-cell-concept-v4-final-v2.jpg",
+    "file": "images/e15571bc_steve-talkowski-gibco-cell-concept-v4-final-v2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1d9b6ea3-b178-476f-b627-2dc2f6533158/steve-talkowski-characters-0002.jpg",
+    "file": "images/a021d6d0_steve-talkowski-characters-0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d6724fec-52ce-4ddd-b55e-95eb1e0589d6/steve-talkowski-concept-v3-0004.jpg",
+    "file": "images/2c1d57a6_steve-talkowski-concept-v3-0004.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/14d1b061-1e66-4871-ac7b-072af00e327a/steve-talkowski-concept-v3-0008.jpg",
+    "file": "images/7afdecba_steve-talkowski-concept-v3-0008.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/f6d4151e-1dce-4b0f-9395-0b0a27807f3d/steve-talkowski-characterconcepts.jpg",
+    "file": "images/6f2a73b6_steve-talkowski-characterconcepts.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1874
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/c35f0186-7591-4920-8d25-1ef285cb85dd/steve-talkowski-uniformcell.jpg",
+    "file": "images/dd9176e1_steve-talkowski-uniformcell.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/51e41742-8808-4064-9f65-59eeccc1e74e/steve-talkowski-sceneblockout-0003.jpg",
+    "file": "images/f4ae925e_steve-talkowski-sceneblockout-0003.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d2a5f4b5-71f1-4a73-9860-c8d2a85335ab/steve-talkowski-maya-screenshot.jpg",
+    "file": "images/e8d3d638_steve-talkowski-maya-screenshot.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1367
+   }
+  ],
+  "nav_title": "GIBCO",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "jammin_alpacas": {
+  "slug": "jammin_alpacas",
+  "title": "Jammin_Alpacas",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/jammin_alpacas",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/5b922d60-e609-480c-8214-03d6fa583b79/steve-talkowski-endshot-web-page-0100.jpg",
+    "file": "images/06eb730f_steve-talkowski-endshot-web-page-0100.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/3ad2fed0-8a2a-4a5d-895b-4f84a72a8373/steve-talkowski-sh02-lex-reaction.jpg",
+    "file": "images/3f0b69a3_steve-talkowski-sh02-lex-reaction.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e8770333-c23d-424b-874c-eeff30b5e1d1/steve-talkowski-ls-sh01-spacebillboard-0141.jpg",
+    "file": "images/178a7673_steve-talkowski-ls-sh01-spacebillboard-0141.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/f25b1e23-678b-4d4e-8d03-9f1cd5ad352a/steve-talkowski-sh-08-0029.jpg",
+    "file": "images/f372dea7_steve-talkowski-sh-08-0029.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/119e4769-6fd4-45e1-9498-99ec47779876/steve-talkowski-highresscreenshot-cc.jpg",
+    "file": "images/a7c74e43_steve-talkowski-highresscreenshot-cc.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/73b0a29f-f0d2-42ab-9d8a-9658cc2cec1d/steve-talkowski-ls-spacelogo-0109.jpg",
+    "file": "images/c0c6345a_steve-talkowski-ls-spacelogo-0109.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/0749498c-45b8-449e-b983-fa77cb4518ed/steve-talkowski-sh-04-asteroid-field-0058.jpg",
+    "file": "images/28ad285c_steve-talkowski-sh-04-asteroid-field-0058.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b3601c1a-7dbf-417e-8851-c7f4244ebbf8/steve-talkowski-lex-2d-vs-3d.jpg",
+    "file": "images/6418b29c_steve-talkowski-lex-2d-vs-3d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/a8c54ef6-3d7c-4b6d-855b-2d79aedeb78d/steve-talkowski-pink-2d-vs-3d.jpg",
+    "file": "images/a9222553_steve-talkowski-pink-2d-vs-3d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/08aa0128-d9f9-4667-990b-33070ca2d349/steve-talkowski-derby-2d-vs-3d.jpg",
+    "file": "images/d12d35c4_steve-talkowski-derby-2d-vs-3d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/bb2e7326-2d20-45ac-b09d-2480bfbe75e5/steve-talkowski-crown-2d-vs-3d.jpg",
+    "file": "images/c0a2ee15_steve-talkowski-crown-2d-vs-3d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/508e0555-7840-45ad-b325-6efd286d67ed/steve-talkowski-sh10-stadium-approach-0119.jpg",
+    "file": "images/36840828_steve-talkowski-sh10-stadium-approach-0119.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   }
+  ],
+  "nav_title": "Jammin_Alpacas",
+  "videos": [],
+  "headings": [
+   "Unreal Engine Cinematic",
+   "The Jammin\u2019 Alpacas NFT Launch"
+  ],
+  "paragraphs": []
+ },
+ "keyshot-6-avatar": {
+  "slug": "keyshot-6-avatar",
+  "title": "KeyShot 6 Avatar",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/keyshot-6-avatar",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071745623-0UD9CWVSFMB8Q4WOHTMI/splash_pose_VARIANT_5b.jpg",
+    "file": "images/e40fedc1_splash_pose_VARIANT_5b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071941686-3KA9DQMFRBJ97G14YUUS/IMG_7639.JPG",
+    "file": "images/4e957834_IMG_7639.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 640,
+    "h": 640
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071906781-02VGLMQ9C8JPH07EVJSM/instagram_crop.jpg",
+    "file": "images/255e9c09_instagram_crop.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 640,
+    "h": 640
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071931712-FLNNI8M7JJQ94CFAP22Z/yellow_bot.2.jpg",
+    "file": "images/e9be1d79_yellow_bot.2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071760422-79F6W4TYO9XHTAT9SDET/variant4_crop3.jpg",
+    "file": "images/d1e9fce8_variant4_crop3.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071727115-UPG02IHGYZBTIYV173QG/splash_pose_VARIANT_2b.jpg",
+    "file": "images/2b11cdf1_splash_pose_VARIANT_2b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071892046-QOVNMIQ9WF4ESRP78N1Z/IMG_8065.JPG",
+    "file": "images/99d70d37_IMG_8065.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071742687-GL2ISJ08OL5D6IEX9PKR/splash_pose_VARIANT_4b.jpg",
+    "file": "images/c761ec3b_splash_pose_VARIANT_4b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071797997-J0QFGD1IYDF169EE76VB/splash_pose_rearView.jpg",
+    "file": "images/6b64d0ba_splash_pose_rearView.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071798093-3YINF99B4RRS7ZR6SZPD/splash_pose_sideView.jpg",
+    "file": "images/132a154b_splash_pose_sideView.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1437071864888-5MPNOQALRMHFVWTXZFCV/keyShot6_teaser.png",
+    "file": "images/a2ca5029_keyShot6_teaser.png",
+    "alt": "",
+    "caption": "",
+    "w": 1025,
+    "h": 547
+   }
+  ],
+  "nav_title": "KeyShot 6 Avatar",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "m4y4": {
+  "slug": "m4y4",
+  "title": "M4Y4",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/m4y4",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/410d5945-7f1f-4df8-90f4-7d000030510c/steve-talkowski-m4y4-magnify-lighting2b.jpg",
+    "file": "images/3a883780_steve-talkowski-m4y4-magnify-lighting2b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1407
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/fc7705dd-1350-4981-9d6f-c611614712ba/steve-talkowski-m4y4-banner.jpg",
+    "file": "images/9d338076_steve-talkowski-m4y4-banner.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 814
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/fb6ee39b-b0b6-44f3-be42-d22b15726870/steve-talkowski-grouppose.jpg",
+    "file": "images/c1c4b327_steve-talkowski-grouppose.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b832c830-f9da-489c-be26-37611ebde208/steve-talkowski-grouppose-v2b.jpg",
+    "file": "images/f7ce7bce_steve-talkowski-grouppose-v2b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1406
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d09f765c-867b-4042-a456-de131a1bdd23/steve-talkowski-sitting-w-laptop-primatives-v1.jpg",
+    "file": "images/1d0730e3_steve-talkowski-sitting-w-laptop-primatives-v1.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e8b12400-d521-4b29-930e-4c9c2a777cf0/steve-talkowski-img-0751.jpg",
+    "file": "images/97d6832e_steve-talkowski-img-0751.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1695
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/4aed8446-cfcb-4448-9ec4-35412108428e/steve-talkowski-img-0752.jpg",
+    "file": "images/4b8976cd_steve-talkowski-img-0752.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1695
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/c282559b-5934-455c-88db-a78373652534/steve-talkowski-img-0753.jpg",
+    "file": "images/f3117936_steve-talkowski-img-0753.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1695
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/6c9339e3-90f4-4a70-be7d-1c5e83c74bb9/steve-talkowski-m4y4-sp-ss.jpg",
+    "file": "images/75dd629b_steve-talkowski-m4y4-sp-ss.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1368
+   }
+  ],
+  "nav_title": "M4Y4",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "march_of_robots_2016": {
+  "slug": "march_of_robots_2016",
+  "title": "March_of_Robots_2016",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/march_of_robots_2016",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b1144f0b-d2ac-4d92-a26c-cea7a443003c/steve-talkowski-mor-2016-0021.jpg",
+    "file": "images/c6980f76_steve-talkowski-mor-2016-0021.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3126
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/20dbf7f0-2be1-4873-9301-8874efa49b00/steve-talkowski-mor-2016-0022.jpg",
+    "file": "images/089f9862_steve-talkowski-mor-2016-0022.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3124
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/c33ccc93-6f36-408c-b04f-35e2765786b4/steve-talkowski-mor-2016-0025.jpg",
+    "file": "images/0a641428_steve-talkowski-mor-2016-0025.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/43924db0-6ffb-41e8-b815-6d2cb14282fe/steve-talkowski-mor-2016-0026.jpg",
+    "file": "images/26f99ccf_steve-talkowski-mor-2016-0026.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3124
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d18c98da-c260-44e0-a5ad-da92c063daee/steve-talkowski-mor-2016-0030.jpg",
+    "file": "images/225fa0a5_steve-talkowski-mor-2016-0030.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1386,
+    "h": 1386
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d6caa433-b452-47ad-9b1b-5438a4a629ae/steve-talkowski-mor-2016-0029.jpg",
+    "file": "images/dc086020_steve-talkowski-mor-2016-0029.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2946
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/23c577fd-2e87-4387-be37-f626f6d4aad3/steve-talkowski-mor-2016-0016.jpg",
+    "file": "images/3786e4bf_steve-talkowski-mor-2016-0016.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2448,
+    "h": 3059
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/88887c08-bec8-4728-b96e-5e61bc4ceade/steve-talkowski-mor-2016-0028.jpg",
+    "file": "images/67893429_steve-talkowski-mor-2016-0028.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3124
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/cd3d8fba-6b87-410c-a3b5-035e319e8ee1/steve-talkowski-mor-2016-0018.jpg",
+    "file": "images/fac18a23_steve-talkowski-mor-2016-0018.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2833
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/c443de5e-738c-4d26-81a7-33c39182f412/steve-talkowski-mor-2016-0014.jpg",
+    "file": "images/a4c9e252_steve-talkowski-mor-2016-0014.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2448,
+    "h": 3058
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ef2c9256-b80c-4fd7-97ae-e5641bbfb34a/steve-talkowski-mor-2016-0012.jpg",
+    "file": "images/04e8ce37_steve-talkowski-mor-2016-0012.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/210ef21b-ee4f-4c85-927b-ed38bdd3bb14/steve-talkowski-mor-2016-0020.jpg",
+    "file": "images/122faf3d_steve-talkowski-mor-2016-0020.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/6dce42db-a832-43d2-b75e-e220f04f8ecf/steve-talkowski-mor-2016-0001.jpg",
+    "file": "images/fd296ff9_steve-talkowski-mor-2016-0001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/fda847f6-f907-46ff-807e-39edd527e5f1/steve-talkowski-mor-2016-0002.jpg",
+    "file": "images/f29c05eb_steve-talkowski-mor-2016-0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/a555ac03-69e8-4c40-8801-8005a158b783/steve-talkowski-mor-2016-0003.jpg",
+    "file": "images/8de98990_steve-talkowski-mor-2016-0003.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/9b5e873f-1436-4e68-8992-1e29ce63141d/steve-talkowski-mor-2016-0004.jpg",
+    "file": "images/a776a6aa_steve-talkowski-mor-2016-0004.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/73b18991-7feb-4e2d-8ca3-9b66da1176a7/steve-talkowski-mor-2016-0005.jpg",
+    "file": "images/38319b35_steve-talkowski-mor-2016-0005.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1836,
+    "h": 2294
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/325ddc09-63c8-49e5-85e7-764c507e5ecc/steve-talkowski-mor-2016-0006.jpg",
+    "file": "images/4212a596_steve-talkowski-mor-2016-0006.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/90cfab6f-56fa-4ba0-b790-92373f66b566/steve-talkowski-mor-2016-0008.jpg",
+    "file": "images/16aca53d_steve-talkowski-mor-2016-0008.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3124
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/becd131a-c8ec-4053-adbd-a352da7a6b6a/steve-talkowski-mor-2016-0007.jpg",
+    "file": "images/63fcb2e9_steve-talkowski-mor-2016-0007.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/79dd6bfc-78e2-4489-b5c4-11b220218b00/steve-talkowski-mor-2016-0010.jpg",
+    "file": "images/1727cff3_steve-talkowski-mor-2016-0010.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b809de33-24a6-4c38-8445-8a5061d13a9c/steve-talkowski-mor-2016-0013.jpg",
+    "file": "images/12f832da_steve-talkowski-mor-2016-0013.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1875
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/3729d419-915e-4498-b9cc-928fd849e89f/steve-talkowski-mor-2016-0017.jpg",
+    "file": "images/6a7fee46_steve-talkowski-mor-2016-0017.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d5e49ba8-57f4-433b-932d-c944f4a0160b/steve-talkowski-mor-2016-0023.jpg",
+    "file": "images/1ba2fb89_steve-talkowski-mor-2016-0023.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/12153ddc-5025-4a50-96d4-aa694c65214c/steve-talkowski-mor-2016-0024.jpg",
+    "file": "images/57a4287c_steve-talkowski-mor-2016-0024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b37390be-6e1e-44ea-92e1-2b0bbad29a13/steve-talkowski-mor-2016-0027.jpg",
+    "file": "images/130452fe_steve-talkowski-mor-2016-0027.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 2500
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/f2210689-ab67-4970-a975-18bd700081e4/steve-talkowski-mor-2016-0031.jpg",
+    "file": "images/123bf95b_steve-talkowski-mor-2016-0031.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2310,
+    "h": 2310
+   }
+  ],
+  "nav_title": "March_of_Robots_2016",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "marchofrobots2014": {
+  "slug": "marchofrobots2014",
+  "title": "March Of Robots 2014",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/marchofrobots2014",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506434956-K9Z2WNR0R6LTU2T6NO4K/MOR_Group_shot_V2.jpg",
+    "file": "images/80cecddd_MOR_Group_shot_V2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1711
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506458979-U0YR0TTBO5Q6DNO9CU8C/MOR_day_1024.jpg",
+    "file": "images/4f2c865b_MOR_day_1024.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506481206-R23CCIUNFLG35AWQ6TR1/Day_02_IG.JPG",
+    "file": "images/71674d61_Day_02_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 836,
+    "h": 836
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506497836-6BGKYDA05JD7YDAA1WWL/Day_03_IG.JPG",
+    "file": "images/c4e13b76_Day_03_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1008,
+    "h": 1008
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506517359-9HUDUT2ZI7ZTATIQ4Q6S/DAY_04_IG.JPG",
+    "file": "images/a5776e88_DAY_04_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506529110-W49IFON4B3BKL6X6550Z/DAY_05_IG.JPG",
+    "file": "images/c8416615_DAY_05_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506560355-WYWAJYM1S55YPNGFGTX0/DAY_06_IG.jpeg",
+    "file": "images/735ff09f_DAY_06_IG.jpeg",
+    "alt": "",
+    "caption": "",
+    "w": 1108,
+    "h": 1108
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506571921-DSCWZONW80UCEF28J377/DAY_07_KS_square_crop.jpg",
+    "file": "images/56ee9aee_DAY_07_KS_square_crop.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1104,
+    "h": 1103
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506585467-83RQQ9G6XMJ9RBT5G50G/DAY_08_KS-2.jpg",
+    "file": "images/a65b0dd4_DAY_08_KS-2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1280,
+    "h": 1280
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506598504-5BPRPKUERU4GOR363B49/DAY_09_KS.jpg",
+    "file": "images/7345faee_DAY_09_KS.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506612104-41OHHSB1PCKIBOPJTOHQ/DAY_10_KS.SQ.jpg",
+    "file": "images/e47bd75a_DAY_10_KS.SQ.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1280,
+    "h": 1280
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506700989-8HCTSN9K3C8Z8KMDBFAJ/MOR_DAY_11-2.jpg",
+    "file": "images/4eb95ee0_MOR_DAY_11-2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1091,
+    "h": 1091
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506721280-GMK9KYQDVUUFMEDYKMHC/MOR_DAY_12_IG.JPG",
+    "file": "images/9591df4a_MOR_DAY_12_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506754035-Y79V84EGN797SR477839/hellBot_frontView_WIP_crop.jpg",
+    "file": "images/41a09d9f_hellBot_frontView_WIP_crop.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1035,
+    "h": 1035
+   }
+  ],
+  "nav_title": "March Of Robots 2014",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "museum-of-untold-possibilities": {
+  "slug": "museum-of-untold-possibilities",
+  "title": "The Museum of Untold Possibilities",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/museum-of-untold-possibilities",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617080508057-YG41K9A0T632JWWZIGNB/VR_eyePilot.0002.jpg",
+    "file": "images/fb532f39_VR_eyePilot.0002.jpg",
+    "alt": "",
+    "caption": "Eye Pilot Untethered",
+    "w": 1915,
+    "h": 1078
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617080639713-UC606A331910IRQL15NG/moup_titleCard.jpg",
+    "file": "images/64d4dc1d_moup_titleCard.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1635,
+    "h": 555
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617160742685-826JJ41J2378TMXDCLYC/steve-talkowski-highresscreenshot00001.jpg",
+    "file": "images/5cc44043_steve-talkowski-highresscreenshot00001.jpg",
+    "alt": "",
+    "caption": "Proof-of-concept in engine",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617160810569-6N8R0IXX7OYRHP3I4B6A/steve-talkowski-highresscreenshot00006.jpg",
+    "file": "images/ebe62342_steve-talkowski-highresscreenshot00006.jpg",
+    "alt": "",
+    "caption": "Discover new art",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617161069611-EBM5GFU52LL8232H54RC/steve-talkowski-stevetalkowski-nmb4-preview.jpg",
+    "file": "images/28299adf_steve-talkowski-stevetalkowski-nmb4-preview.jpg",
+    "alt": "",
+    "caption": "Witness this illustration from Nuthin\u2019 But Mech Vol 4 come to life",
+    "w": 1811,
+    "h": 1183
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617161187524-JO85TLQCKDY6RSUB6WGO/steve-talkowski-page-of-sketchbots-2.jpg",
+    "file": "images/f22179bb_steve-talkowski-page-of-sketchbots-2.jpg",
+    "alt": "",
+    "caption": "Eye Pilot Character Sketches",
+    "w": 2500,
+    "h": 1874
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617161454480-CW6HJJLOSF7MRANJBB6V/steve-talkowski-sb-pilots.jpg",
+    "file": "images/d1a30126_steve-talkowski-sb-pilots.jpg",
+    "alt": "",
+    "caption": "First Encounter",
+    "w": 1171,
+    "h": 781
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617161514524-Q3P0UHLA8A4MWCR3BFNY/steve-talkowski-buddhabot-v2-black-w-eye.jpg",
+    "file": "images/399a0957_steve-talkowski-buddhabot-v2-black-w-eye.jpg",
+    "alt": "",
+    "caption": "Buddha Bot",
+    "w": 2500,
+    "h": 1975
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617165957929-Q1UU4EFMICJ0KTMV1KQJ/steve-talkowski-highresscreenshot00002.jpg",
+    "file": "images/ccb965c5_steve-talkowski-highresscreenshot00002.jpg",
+    "alt": "",
+    "caption": "Engaged Visitors",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617163777608-1KR6X17F5AASPVJ20G2Y/sketchbotPilotClipboard.png",
+    "file": "images/dd6ba955_sketchbotPilotClipboard.png",
+    "alt": "",
+    "caption": "",
+    "w": 599,
+    "h": 599
+   }
+  ],
+  "nav_title": "The Museum of Untold Possibilities",
+  "videos": [],
+  "headings": [
+   "World of Sketchbot",
+   "\u2018Elevator Pitch\u2019",
+   "Users new to VR, including the headset manufacturers, are starving for original, high-quality content.",
+   "Explore",
+   "Discover",
+   "Create",
+   "Funding Needs",
+   "Project Breakdown",
+   "Meet The Team",
+   "Steve Talkowski - Creative Director, Modeler, Animator",
+   "Sketchbot Studios",
+   "Erik Anderson - Unreal Engineer",
+   "http://eriksgames.com",
+   "Erik Desiderio - Composer and Sound Designer",
+   "https://www.anomalyaudio.com/",
+   "Thank You!"
+  ],
+  "paragraphs": [
+   "Eye Pilot Untethered",
+   "CoCo VR meets the World of Sketchbot!",
+   "I love being in VR. Most notably, the sense of awe and wonderment when allowed to roam freely, explore and interact. This VR piece falls into a non-game vertical, with emphasis on interaction, non-linear progression and DIY creation. Narrative unfolds as the user visits and explores a variety of galleries at their own pace. Introduction of specific, date timed exhibits will compel the player to re-visit and continue progress by unlocking achievements unique to that particular \u201copening\u201d, while gathering components for their own, custom DIY creations in the Art Lab.",
+   "Proof-of-concept in engine",
+   "This MegaGrant proposal is geared for Phase One of expanding the Sketchbot brand to current and next generation followers, and providing fellow artists a platform to showcase their creations via cutting-edge technology. Deploying to VR is the first preference, with eventual ports to PC and Mobile. Working closely with Oculus will ensure proper optimization for a stable release on the tether free Quest 2 platform.",
+   "Phase Two will see the Eye Pilots star in their own game - maneuvering through levels comprised of vibrant, color theory puzzles, art historical challenges, and overcoming fun, creatively themed hurdles to reach the sacred Buddha Bot.",
+   "Phase Three is slated for short-form TV series. Unreal Engine will play a crucial role in bringing these environments to life, veering gameplay and narrative into visually stunning, cinematic results.",
+   "Discover new art",
+   "Explore the world of Sketchbot in this self guided, non-linear, interactive VR experience inside a multi-gallery, museum setting. Located inside the world of Sketchbot, each gallery visit will engage the player in unique, animated vignettes.",
+   "Revisit when a new exhibition opens, and unlock achievements as you discover exciting, new 3d creations curated from a roster of fellow robot creators and character designers.",
+   "Witness this illustration from Nuthin\u2019 But Mech Vol 4 come to life",
+   "Learn more about these curious, cycloptic characters and their creative endeavors. Chose to use an audio guided tour accompanied by a friendly, AI driven robot docent, or simply listen to specific recordings located throughout the experience.",
+   "The main galleries will feature a diverse collection of original robot designs, categorized by when they were created - the history and creation of the Sketchbot Designer Toy, for example - and, for specific social media events and publications such as: Inktober, March of Robots, and Nuthin\u2019 But Mech, to name a few.\u00a0 Additional galleries will feature a curated group of international artists.",
+   "Two candidates on board for launch are Dacosta Bayley, aka Chocolate Soop, the originator of the yearly March of Robots event, and Brandt Peters, artist, former Art Director for Meow Wolf, and Director of the Circus Posterus collective.",
+   "Eye Pilot Character Sketches",
+   "Create your own custom DIY robots in the Art Lab, piecing together parts and materials obtained throughout the museum, for a truly unique, exportable collectible. Save and export STL files for 3d printing. View your creation, with animation, using the AR app on your mobile device. Output animated gifs for sharing on all your social mediums. Return to create more!",
+   "The potential for hosting virtual, DIY custom shows via this format has amazing potential, and will engage the community to return, participate and contribute.",
+   "First Encounter",
+   "As a freelance 3D professional, I find myself caught in the constant cycle of taking on work while attempting to continue with development on my original IP. Being an individual developer, MegaGrant funding will enable me to focus my resources full-time on continuing the build out of assets and animation.",
+   "Funding will also ensure working with a dedicated UE Programmer who can handle the more technical aspects, and a Sound Engineer to score and bring the virtual museum to life.",
+   "Working as a professional 3d artist over the past 30 years, i\u2019ve developed great relationships within the 3d community. I am envisioning collaborations with various vendors for hosting animated clips and 3d models - Sketchfab and ArtStation immediately come to mind. I also have great associations with both Adobe and Autodesk, as well as Wacom and Pixologic, and it would be great to get them on board for some form of sponsorship.",
+   "Buddha Bot",
+   "MegaGrant funding will cover my expenses for the next 6-8 months and to pay for my small team, which consists of a dedicated UE Engineer and Sound Designer.",
+   "Environment layout needs consist of:",
+   "Contained exterior that focuses on the architecture of the museum and some modest surroundings the player can explore before moving inside. Environment will be \u201clive\u201d with AI characters milling about and bright, sunny atmosphere.",
+   "Lobby/reception area, with a central robot greeter that gives an introduction to the space, provides a virtual map, assigns AI robot docent, etc. Interaction will be inspired by Oculus First Contact.",
+   "Six to Eight galleries. Some will be open, others closed \u201cfor exhibition prep\u201d until ready for release as a scheduled update. Two levels: Lower Level more traditional (NY Metropolitan Museum) Upper Levels more modern (MoMA). Wanting to keep the world grounded in a recognizable reality, while the individual galleries can exhibit more experimentation with time and space.",
+   "Art Lab. This is the end of the experience, where the player gets to create their DIY creation and prep for export.",
+   "In addition to designing and art directing the world, I will continue to work on character modeling, rigging and animation for the main characters and supporting cast. Please refer to the submitted video for additional WIP.",
+   "Engaged Visitors",
+   "A veteran of the computer animation scene, Steve has worked as an animation director and character animator on hundreds of national brands ranging from Google, Adobe, Autodesk, BMW, Pepsi, General Mills, Target, Reese's and M&M\u2019s. A most productive stint as senior animator at Blue Sky Studios found him working on the ground-breaking feature films Joe's Apartment, Ice Age, Alien Resurrection and the 1988 Academy Award winning short, Bunny.",
+   "In 2008, Steve launched Sketchbot Studios and self-produced his first foray into the designer toy scene - the retro-styled, pencil-wielding robot, Sketchbot. In 2010, the Sketchbot platform served as the basis for two highly successful DIY custom art shows held in NYC and LA.",
+   "Currently residing in Los Angeles, CA with his wife and daughter, Steve continues to design original characters for toy and branding properties, freelances on film and commercials, and continues developing his world of robots into a 3d animated TV series.",
+   "Erik has worked as a contract and full-time engine programmer for 10+ years. Highly proficient with both UE4 and Unity, he specializes in developing for VR and AR, with traditional and mobile game development experience.",
+   "Erik was Lead Engine Architect on the VR Project TreeVR, which won a Lumiere award for best location based short animated VR experience, and was featured on \"The World According to Jeff Goldblum\". He also served as XR Developer at Meow Wolf for three years, where he helped develop some of the tools and experiences that are currently being featured at the new Las Vegas Exhibit. He has also worked on virtual environments and scripting for director Sam Rolfes on multiple music videos, some of which have been featured on Adult Swim, etc.",
+   "Erik is a groundbreaking composer and sound designer for film, TV and video games.",
+   "Video game work includes music for the VR games: Adventure Time VR, Ben 10 VR, and Jest to Impress by Cartoon Network. Other VR content includes Discovery TRVLR (Discovery Channel travel experience), Remember Remember (an alien invasion experience featured at the Tribeca Film Festival), and Quarterback Snap. Non VR games include Star Trek Fleet Command (Music was nominated for a Game Audio Network Guild Award (G.A.N.G.) and a Hollywood Music in Media Award, PUBG, and Diablo III: Rise of the Necromancer by Blizzard Entertainment, an expansion for Diablo III, the fastest selling PC game of all time.",
+   "Additionally, he has worked on more than fifty films, including ten features. He produced the score for the Academy Award winning film, The Moon and the Son, and created the music/sound treatment for the HBO Max logo, and the theme for The Hot Zone which was produced by Ridley Scott.",
+   "Thanks for the opportunity to pitch, and for generating the MegaGrant Fund for the community. I\u2019m excited at the possibility to grow and expand my IP into a virtual experience using Unreal Engine to its fullest potential!"
+  ]
+ },
+ "pgiant": {
+  "slug": "pgiant",
+  "title": "Pumpkin Giant",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/pgiant",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587283743-KZ9ZW5864YGMPC7SXJOD/pumpkinGiant-1.jpg",
+    "file": "images/7e445d22_pumpkinGiant-1.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1560,
+    "h": 2280
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1421353578725-QTQWYEN4376OP70RE84J/pumpkinGiant-yellow.jpg",
+    "file": "images/bc90520d_pumpkinGiant-yellow.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587186273-HQP9P18KH53DC15IYV1B/PumpkinGiant_testRender.jpg",
+    "file": "images/6cb81ad4_PumpkinGiant_testRender.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1608,
+    "h": 1048
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587187901-9PJ5A57C90IWWHTR9GZF/PumpkinGiant_testRender3.jpg",
+    "file": "images/16576e4d_PumpkinGiant_testRender3.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1608,
+    "h": 1048
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587186798-1SCT6XYGWMHDQT0WU6YX/PumpkinGiant_testRender2.jpg",
+    "file": "images/2404e11f_PumpkinGiant_testRender2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1608,
+    "h": 1048
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587259201-WGU9OQJLXFP3ADLQO059/pg_defaultPose-ig.jpg",
+    "file": "images/fe00d943_pg_defaultPose-ig.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587235254-MDOHJQ0D6VIX68GHRL4N/pg_headTest-ig.jpg",
+    "file": "images/c784d3a9_pg_headTest-ig.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587228896-P55RTFMGCB47F0AAL6QE/pg_skullDetail-ig.jpg",
+    "file": "images/85bc7f0d_pg_skullDetail-ig.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587265336-XLV66H6KMIWNCANOFAWS/pg_footUpclose-ig.jpg",
+    "file": "images/1767412b_pg_footUpclose-ig.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420587247650-LGBVIDS23RF4895NP8BG/book_cover.jpg",
+    "file": "images/94933e3e_book_cover.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 573,
+    "h": 803
+   }
+  ],
+  "nav_title": "Pumpkin Giant",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "photographs": {
+  "slug": "photographs",
+  "title": "Inktober 2012",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/photographs",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591866133-VZD4O31GQUY2LFPK8DQ5/inktober_day.0001.jpg",
+    "file": "images/aae8112b_inktober_day.0001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591865939-UNDOZ3U6P22HD0TK82Q9/inktober_day.0002.jpg",
+    "file": "images/a9c4d00b_inktober_day.0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591866155-KDCNZWRBYFZQBGFXWEEX/inktober_day.0003.jpg",
+    "file": "images/a4ba8230_inktober_day.0003.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591866441-C652SMDD71DJ76Y58IQQ/inktober_day.0004.jpg",
+    "file": "images/badafd91_inktober_day.0004.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591866876-L9O0XMO9OFKPEQ6IYW8D/inktober_day.0005.jpg",
+    "file": "images/4a48c328_inktober_day.0005.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591867278-GEC57H9E9MALKOM93PW2/inktober_day.0006.jpg",
+    "file": "images/511f7611_inktober_day.0006.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591867654-DRM3NO0AB5L8924HIEQI/inktober_day.0007.jpg",
+    "file": "images/aa936e4c_inktober_day.0007.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591867557-YLEE0752KFEB8TP6OTZI/inktober_day.0008.jpg",
+    "file": "images/1e1dcf4e_inktober_day.0008.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591867837-GIFV812SO41AZ3KDCN6O/inktober_day.0009.jpg",
+    "file": "images/0bd0299d_inktober_day.0009.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591867924-7DJ7SL23E4GJEXRAGMG0/inktober_day.0010.jpg",
+    "file": "images/cab2f0a2_inktober_day.0010.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591868039-C0E751C9D9GBN92MRGA6/inktober_day.0011.jpg",
+    "file": "images/1ec7d3f8_inktober_day.0011.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591868197-FPDWI2ZZHGFT50DT8DSF/inktober_day.0011b.jpg",
+    "file": "images/74d28bcb_inktober_day.0011b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591868320-Z7F1ZHJD4Y0X4H80W4RL/inktober_day.0012.jpg",
+    "file": "images/a3301100_inktober_day.0012.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591868475-MJZ3V60C6VHR8T9C54TQ/inktober_day.0013.jpg",
+    "file": "images/b71b2b81_inktober_day.0013.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591868606-X9RSZEBTXJXJJL5F0IY6/inktober_day.0014.jpg",
+    "file": "images/c6123f4b_inktober_day.0014.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591869995-LJDZ1Z43URTSPDVVCPLS/inktober_day.0015.jpg",
+    "file": "images/3bdb7134_inktober_day.0015.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591869451-UDB1QL4WO1RA5GXOMBB4/inktober_day.0016.jpg",
+    "file": "images/908a3bdb_inktober_day.0016.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591869973-XL42J27P6NE1B3XKI709/inktober_day.0017-IG.jpg",
+    "file": "images/bbc38ca9_inktober_day.0017-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591932318-AIUVJDQI64JNTLGDEDWC/inktober_day.0018_bonus-IG.jpg",
+    "file": "images/a100e7ba_inktober_day.0018_bonus-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591932400-TXO35TBY9KIGEY6RAA46/inktober_day.0018-IG.jpg",
+    "file": "images/6ba4d32e_inktober_day.0018-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591932693-6P7OQKJQS0PUZT9S715Q/inktober_day.0019.jpg",
+    "file": "images/dfcc0612_inktober_day.0019.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591932607-C5OLG23163OL3FOH01WS/inktober_day.0020-IG.jpg",
+    "file": "images/980b615a_inktober_day.0020-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 709,
+    "h": 729
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591932801-FDKIK94H0Z540LJUKQ9Y/inktober_day.0021-IG.jpg",
+    "file": "images/f4bc2b08_inktober_day.0021-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591957075-9LNOCE02TW3ZCO0M4L0M/inktober_day.0022-IG.jpg",
+    "file": "images/0c557b6f_inktober_day.0022-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591956991-2K98G6BS4BGR1H2W1F6G/inktober_day.0023-IG.jpg",
+    "file": "images/610cf8f6_inktober_day.0023-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420591957255-OKMVZZZWB4SXDJ0Z90RO/inktober_day.0024-BONUS-IG.jpg",
+    "file": "images/b3d689cb_inktober_day.0024-BONUS-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592012213-WJ4NF8IPFIDIKVZA7FB2/inktober_day.0024-IG.jpg",
+    "file": "images/725fd8eb_inktober_day.0024-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592012245-ARJBUKFTCDU0VL3SAMKI/inktober_day.0024-o-IG.jpg",
+    "file": "images/ca6a8049_inktober_day.0024-o-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592012488-VUJPPQB36DB7ECTNJC3U/inktober_day.0025-IG.jpg",
+    "file": "images/ddfded2c_inktober_day.0025-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592012546-KNX5X1ILH8AE02NAYTTL/inktober_day.0026-IG.jpg",
+    "file": "images/26e0c756_inktober_day.0026-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592013235-2DQIIIE6I2ONQSZEOH0Z/inktober_day.0027_b-IG.jpg",
+    "file": "images/1fd8872f_inktober_day.0027_b-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592012838-JMZG7ST4WPSI92OW3781/inktober_day.0027-IG.jpg",
+    "file": "images/21c74fe1_inktober_day.0027-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592013379-V12IA6PMKA72LCVZZPE9/inktober_day.0028.jpg",
+    "file": "images/3cedef15_inktober_day.0028.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592028702-S3AELFMDER8WARYRMOXX/inktober_day.0031-IG.jpg",
+    "file": "images/3fdaaeb2_inktober_day.0031-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592038393-IRUPS8ZEZUD0VF0Y7T4Q/sb_mech.jpg",
+    "file": "images/ddc5eebb_sb_mech.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1775,
+    "h": 1772
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420592054278-0SQ67O5DHO738SLT4D4F/sketchMech-IG.jpg",
+    "file": "images/1c10518a_sketchMech-IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 612,
+    "h": 612
+   }
+  ],
+  "nav_title": "Inktober 2012",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "projects-gallery": {
+  "slug": "projects-gallery",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1741111256463-HD9ZVHXKKKBB0LMR026I/SCOOB_header.png",
+    "file": "images/d7f34eb9_SCOOB_header.png",
+    "alt": "",
+    "caption": "",
+    "w": 1047,
+    "h": 588
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1741111339372-0757FAJKAK9DWF5WTOW0/afternoonAtMuseum.0006.jpg",
+    "file": "images/1017c538_afternoonAtMuseum.0006.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1741111930158-5JXTT6EC52NBF1SLWVMX/steve-talkowski-m4y4-magnify-lighting2b.jpg",
+    "file": "images/c0a8d61b_steve-talkowski-m4y4-magnify-lighting2b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1407
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1741112117204-3EDOZ2D9V9Z93HXTE9LH/steve-talkowski-mor-2016-0022.jpg",
+    "file": "images/408f3ece_steve-talkowski-mor-2016-0022.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 3124
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847145128-35QHFEY5LNX7ABDMNK1D/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/7be902f9_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1667
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847144711-WUAWWPN08OFAO7CYEPG7/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/258b7e38_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1667
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "SCOOB",
+   "Afternoon At Museum",
+   "Autodesk M4Y4",
+   "March of Robots 2016",
+   "Project Five",
+   "Project Six"
+  ],
+  "paragraphs": []
+ },
+ "projects-gallery__marchofrobots2016": {
+  "slug": "projects-gallery__marchofrobots2016",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847905386-9EM9GLHE12726EXM68S4/image-asset.jpeg",
+    "file": "images/39a0ce7c_image-asset.jpeg",
+    "alt": "",
+    "caption": "",
+    "w": 1120,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847906050-Q37PFW075QZ6YU9179YP/image-asset.jpeg",
+    "file": "images/fccde2f9_image-asset.jpeg",
+    "alt": "",
+    "caption": "",
+    "w": 1120,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847907929-YZFF0BD112Q9PF2G1BK6/image-asset.jpeg",
+    "file": "images/9fa6bcf7_image-asset.jpeg",
+    "alt": "",
+    "caption": "",
+    "w": 1120,
+    "h": 1400
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "Make it stand out.",
+   "Make it stand out.",
+   "Make it stand out.",
+   "Make it stand out.",
+   "Autodesk M4Y4",
+   "Project Five"
+  ],
+  "paragraphs": [
+   "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.",
+   "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.",
+   "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.",
+   "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+  ]
+ },
+ "projects-gallery__project-five-jkmzy-p8rfc": {
+  "slug": "projects-gallery__project-five-jkmzy-p8rfc",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847419968-YLRD4TYV9QU8K9LW04SP/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/365ba5f8_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1120,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847419260-TLMPOGZEKRIR09EDXNAA/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/ad7f7622_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1750,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847418911-D6BSPWP8P3O9YAF5R3SO/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/39240174_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1120,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847418431-66X2HHF6ZNWKOC9VHLZI/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/16298bc7_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1750,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847417789-TGDSX064I3PZELTJI8Q1/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/a56e0519_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1750,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847417384-6R65UAAJW6EW4KUCUT6U/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/8a64562e_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1120,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847416982-R2067X6OPKY3MG304FSJ/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/76b23f07_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1750,
+    "h": 1400
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "March of Robots 2016",
+   "Project Six"
+  ],
+  "paragraphs": []
+ },
+ "projects-gallery__project-one-ephnc-3txxd": {
+  "slug": "projects-gallery__project-one-ephnc-3txxd",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b4265ed2-2ccc-484a-8980-372d69fa6034/steve-talkowski-mean-machine-first-test5b.jpg",
+    "file": "images/d21c2d7d_steve-talkowski-mean-machine-first-test5b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1999,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d543cda3-2462-496e-8d75-4f1aacb81437/steve-talkowski-mean-machine-first-test5d.jpg",
+    "file": "images/b8d54b7e_steve-talkowski-mean-machine-first-test5d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1999,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/053a7406-2c1a-4380-a7ef-d4572ed4c484/steve-talkowski-mean-machine-first-test5a.jpg",
+    "file": "images/d6dda791_steve-talkowski-mean-machine-first-test5a.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1999,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b8b07d2d-c49c-447f-85fa-2963f0b0f0f9/steve-talkowski-baby-rotten-revisited-4.jpg",
+    "file": "images/d931d762_steve-talkowski-baby-rotten-revisited-4.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1799,
+    "h": 1012
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/64b4bd4b-13bc-481d-a6d4-5538a886d8c5/steve-talkowski-baby-rotten-revisited-4-7.jpg",
+    "file": "images/0595eaee_steve-talkowski-baby-rotten-revisited-4-7.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1921,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/7c2311dc-7220-4804-90a0-897421966551/steve-talkowski-baby-rotten-revisited-5-8.jpg",
+    "file": "images/8529eb2c_steve-talkowski-baby-rotten-revisited-5-8.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1921,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/72ec204c-238c-4fdd-a3d9-30998024df66/steve-talkowski-hoverjet-v3b-revisited-3-12.jpg",
+    "file": "images/209dbc78_steve-talkowski-hoverjet-v3b-revisited-3-12.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1079
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/de8f27ad-d020-41a8-a453-aa11f3eafaa1/steve-talkowski-hoverjet-v3b-revisited-9.jpg",
+    "file": "images/0f05046d_steve-talkowski-hoverjet-v3b-revisited-9.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1079
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/194a5273-3daa-4ba3-be19-a317c6b6acdb/steve-talkowski-hoverjet-v3b-revisited-2-10.jpg",
+    "file": "images/3067976c_steve-talkowski-hoverjet-v3b-revisited-2-10.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1079
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "SCOOB Animated Feature",
+   "3D Concept Art for SCOOB",
+   "Afternoon At Museum"
+  ],
+  "paragraphs": []
+ },
+ "projects-gallery__project-six-sz8wl-65wa9": {
+  "slug": "projects-gallery__project-six-sz8wl-65wa9",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847422112-G7ETRT5C07KF9PHFAV96/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/ba654bb1_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2200,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847421455-8JW2CPL3ZB56F2Z8ACLN/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/f0f4a522_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2200,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847420762-AGPM8HHB51L8F01AAZN7/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/1e1d9a71_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2200,
+    "h": 1400
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589847420322-U8QPDYBOD6HXYRSL8QW0/20140301_Trade-151_0124-copy.jpg",
+    "file": "images/63861c2f_20140301_Trade-151_0124-copy.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2200,
+    "h": 1400
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "Project Five"
+  ],
+  "paragraphs": [
+   "It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. Don\u2019t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what\u2019s going to separate this one from the rest. If you read the words back and don\u2019t hear your own voice in your head, that\u2019s a good sign you still have more work to do."
+  ]
+ },
+ "projects-gallery__project-three-8zgh7-9eh9w": {
+  "slug": "projects-gallery__project-three-8zgh7-9eh9w",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1741111871529-VQ1LOYPE66FOB5D36GQH/unsplash-image-IjEtFjxXweE.jpg",
+    "file": "images/04e3535b_unsplash-image-IjEtFjxXweE.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1661
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "Autodesk M4Y4 Character",
+   "Whatever it is, the way you tell your story online can make all the difference.",
+   "Afternoon At Museum",
+   "March of Robots 2016"
+  ],
+  "paragraphs": [
+   "I was brought on to design, model and render the new mascot for Autodesk Maya\u2019s Learning Channel.",
+   "One of the key requirements was the character be real-time compliant for use in Maya\u2019s viewport for training purposes."
+  ]
+ },
+ "projects-gallery__project-two-llrgk-5gwkj": {
+  "slug": "projects-gallery__project-two-llrgk-5gwkj",
+  "title": "GALLERY COVER PAGE",
+  "type": "portfolio-grid-basic",
+  "description": "",
+  "url": "https://www.sketchbot.tv/projects-gallery",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d960711f-e8c2-4087-bde6-f8a2027ffd20/VR_eyePilot.0002.jpg",
+    "file": "images/e1be299a_VR_eyePilot.0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1078,
+    "h": 1078
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/164d987a-d26a-4617-963d-428a727e8578/afternoonAtMuseum.0001.jpg",
+    "file": "images/b70f39cf_afternoonAtMuseum.0001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e7ed5094-2a48-47d0-9b4d-c4620d1f8b87/afternoonAtMuseum.0006.jpg",
+    "file": "images/ab789c15_afternoonAtMuseum.0006.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/4dbd66f2-9c67-4c1d-940a-9863a0c24072/afternoonAtMuseum.0007.jpg",
+    "file": "images/cc22245b_afternoonAtMuseum.0007.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/4d11a4c6-1466-4ca1-8887-ab902e3bf1ca/afternoonAtMuseum.0003.jpg",
+    "file": "images/9f78c659_afternoonAtMuseum.0003.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/6be6f80f-6c4c-4868-bb94-0165c3b20b66/afternoonAtMuseum.0009.jpg",
+    "file": "images/20aad03a_afternoonAtMuseum.0009.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ab73709b-702a-4de4-b6bf-6f476d640675/afternoonAtMuseum.0008.jpg",
+    "file": "images/fa769faf_afternoonAtMuseum.0008.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/5b8b60d7-3ce1-416a-960a-6581f108e5c8/afternoonAtMuseum.0004.jpg",
+    "file": "images/f0d2dd7a_afternoonAtMuseum.0004.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/58690262-fdff-427c-8a22-a1bae3451ad8/afternoonAtMuseum.0010.jpg",
+    "file": "images/3f37bd09_afternoonAtMuseum.0010.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ba00d6f8-788e-4783-bc11-02aeb62b3317/afternoonAtMuseum.0005.jpg",
+    "file": "images/820d95f3_afternoonAtMuseum.0005.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/05836a65-7279-4951-b04a-e0bc67fd3acf/afternoonAtMuseum.0002.jpg",
+    "file": "images/414b674b_afternoonAtMuseum.0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   }
+  ],
+  "nav_title": "PROJECTS GALLERY",
+  "videos": [],
+  "headings": [
+   "SCOOB",
+   "Autodesk M4Y4"
+  ],
+  "paragraphs": [
+   "Afternoon at the Museum",
+   "This is a proof-of-concept that was part of my EPIC Games Megagrant submission."
+  ]
+ },
+ "refbot": {
+  "slug": "refbot",
+  "title": "RefBot",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/refbot",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420663905579-EF4RFDIBHXCJ5G24YJFM/refBot_V2a_IG.jpg",
+    "file": "images/4b5560f8_refBot_V2a_IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420663905895-M3AEBGGRSUFH0T20NKK9/refBot_V2b_IG.jpg",
+    "file": "images/16593177_refBot_V2b_IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420663906135-C39CMTZWF195DWYQHEZA/refBot_V2c_IG.jpg",
+    "file": "images/9008312c_refBot_V2c_IG.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420663937139-1KTJ46N2P5ELI6H3HZ38/refBot_IG.JPG",
+    "file": "images/ea13e3b3_refBot_IG.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 1440,
+    "h": 1440
+   }
+  ],
+  "nav_title": "RefBot",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "scoob": {
+  "slug": "scoob",
+  "title": "SCOOB",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/scoob",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b4265ed2-2ccc-484a-8980-372d69fa6034/steve-talkowski-mean-machine-first-test5b.jpg",
+    "file": "images/d21c2d7d_steve-talkowski-mean-machine-first-test5b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1999,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/d543cda3-2462-496e-8d75-4f1aacb81437/steve-talkowski-mean-machine-first-test5d.jpg",
+    "file": "images/b8d54b7e_steve-talkowski-mean-machine-first-test5d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1999,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/053a7406-2c1a-4380-a7ef-d4572ed4c484/steve-talkowski-mean-machine-first-test5a.jpg",
+    "file": "images/d6dda791_steve-talkowski-mean-machine-first-test5a.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1999,
+    "h": 1123
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b8b07d2d-c49c-447f-85fa-2963f0b0f0f9/steve-talkowski-baby-rotten-revisited-4.jpg",
+    "file": "images/d931d762_steve-talkowski-baby-rotten-revisited-4.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1799,
+    "h": 1012
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/64b4bd4b-13bc-481d-a6d4-5538a886d8c5/steve-talkowski-baby-rotten-revisited-4-7.jpg",
+    "file": "images/0595eaee_steve-talkowski-baby-rotten-revisited-4-7.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1921,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/7c2311dc-7220-4804-90a0-897421966551/steve-talkowski-baby-rotten-revisited-5-8.jpg",
+    "file": "images/8529eb2c_steve-talkowski-baby-rotten-revisited-5-8.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1921,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/72ec204c-238c-4fdd-a3d9-30998024df66/steve-talkowski-hoverjet-v3b-revisited-3-12.jpg",
+    "file": "images/209dbc78_steve-talkowski-hoverjet-v3b-revisited-3-12.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1079
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/de8f27ad-d020-41a8-a453-aa11f3eafaa1/steve-talkowski-hoverjet-v3b-revisited-9.jpg",
+    "file": "images/0f05046d_steve-talkowski-hoverjet-v3b-revisited-9.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1079
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/194a5273-3daa-4ba3-be19-a317c6b6acdb/steve-talkowski-hoverjet-v3b-revisited-2-10.jpg",
+    "file": "images/3067976c_steve-talkowski-hoverjet-v3b-revisited-2-10.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1079
+   }
+  ],
+  "nav_title": "SCOOB",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "shop": {
+  "slug": "shop",
+  "title": "SHOP",
+  "type": "products",
+  "description": "",
+  "url": "https://www.sketchbot.tv/shop",
+  "items": [],
+  "nav_title": "SHOP",
+  "videos": [],
+  "headings": [
+   "SHOP",
+   "Filters",
+   "No results found"
+  ],
+  "paragraphs": [
+   "No results found\n No results match your search. Try removing a few filters."
+  ]
+ },
+ "sketchbot": {
+  "slug": "sketchbot",
+  "title": "Sketchbot",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/sketchbot",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662651888-FRA0IHITUFLA0G8GRT1U/Sketchbot_V1_pencil_featured.jpg",
+    "file": "images/ff484a89_Sketchbot_V1_pencil_featured.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662666799-PBAUE5OBBDF2WYSXPS7V/Sketchbot_V1.jpg",
+    "file": "images/67e0927c_Sketchbot_V1.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1448,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662673803-D7W0ZOHLW99B0TPAKSEK/Sketchbot_V1_w_Box.jpg",
+    "file": "images/50a77c52_Sketchbot_V1_w_Box.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662730741-BK2NI2XQTBA8GXK5QB4H/IMG_9500.jpg",
+    "file": "images/2cb4bf3c_IMG_9500.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1283,
+    "h": 941
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662742333-BD03BUKUL40RB7X51UQF/IMG_9498.jpg",
+    "file": "images/d71f57eb_IMG_9498.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662749384-OP1S1GOINOEEEMUBGT0K/SKBT0003.jpg",
+    "file": "images/55bd44db_SKBT0003.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 639,
+    "h": 425
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662790914-MEYYUFPLDIWCF4TVEOI0/Sketchbot_V4-leanGreen_V3.jpg",
+    "file": "images/4213ad33_Sketchbot_V4-leanGreen_V3.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662828249-LOJM5QJD33TIX2ID5LN8/Sketchbot_V4-2.jpg",
+    "file": "images/c675eb5e_Sketchbot_V4-2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1600,
+    "h": 1115
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662857967-OKZNSUG8TVL5FJ9YMU7F/IMG_2811.jpg",
+    "file": "images/3654463a_IMG_2811.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662866334-1RKZI9ZP29IWCPSE9M3Y/IMG_2812.jpg",
+    "file": "images/33e2e25a_IMG_2812.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662912296-9ULUKD4DRQS3L1JZVOT8/IMG_6022.jpg",
+    "file": "images/41ec9283_IMG_6022.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1541,
+    "h": 1027
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662930751-DPTA5Z2U07HZ93L6QT6A/IMG_6051.jpg",
+    "file": "images/5615d162_IMG_6051.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662945891-WZLH8HLG942VC3LXRYAZ/IMG_6029.jpg",
+    "file": "images/2f969c19_IMG_6029.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1555,
+    "h": 1037
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420662959404-PK4T2LMTXIX2C4S7I3DJ/Sketchbot_DIY-1.jpg",
+    "file": "images/dbb402c3_Sketchbot_DIY-1.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 778,
+    "h": 533
+   }
+  ],
+  "nav_title": "Sketchbot",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "sketchbot_museum": {
+  "slug": "sketchbot_museum",
+  "title": "Sketchbot_Museum",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/sketchbot_museum",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/164d987a-d26a-4617-963d-428a727e8578/afternoonAtMuseum.0001.jpg",
+    "file": "images/b70f39cf_afternoonAtMuseum.0001.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/05836a65-7279-4951-b04a-e0bc67fd3acf/afternoonAtMuseum.0002.jpg",
+    "file": "images/414b674b_afternoonAtMuseum.0002.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/4d11a4c6-1466-4ca1-8887-ab902e3bf1ca/afternoonAtMuseum.0003.jpg",
+    "file": "images/9f78c659_afternoonAtMuseum.0003.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/5b8b60d7-3ce1-416a-960a-6581f108e5c8/afternoonAtMuseum.0004.jpg",
+    "file": "images/f0d2dd7a_afternoonAtMuseum.0004.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ba00d6f8-788e-4783-bc11-02aeb62b3317/afternoonAtMuseum.0005.jpg",
+    "file": "images/820d95f3_afternoonAtMuseum.0005.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e7ed5094-2a48-47d0-9b4d-c4620d1f8b87/afternoonAtMuseum.0006.jpg",
+    "file": "images/ab789c15_afternoonAtMuseum.0006.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/4dbd66f2-9c67-4c1d-940a-9863a0c24072/afternoonAtMuseum.0007.jpg",
+    "file": "images/cc22245b_afternoonAtMuseum.0007.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/ab73709b-702a-4de4-b6bf-6f476d640675/afternoonAtMuseum.0008.jpg",
+    "file": "images/fa769faf_afternoonAtMuseum.0008.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/6be6f80f-6c4c-4868-bb94-0165c3b20b66/afternoonAtMuseum.0009.jpg",
+    "file": "images/20aad03a_afternoonAtMuseum.0009.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/58690262-fdff-427c-8a22-a1bae3451ad8/afternoonAtMuseum.0010.jpg",
+    "file": "images/3f37bd09_afternoonAtMuseum.0010.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1369
+   }
+  ],
+  "nav_title": "Sketchbot_Museum",
+  "videos": [],
+  "headings": [],
+  "paragraphs": [
+   "Proof of concept for EPIC Games Megagrant, created with Unreal Engine."
+  ]
+ },
+ "surge-protector": {
+  "slug": "surge-protector",
+  "title": "Surge Protector",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/surge-protector",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1422562088157-N8VO54LFQFE4Q60XJ8HO/surge_protector_V3_textured.jpg",
+    "file": "images/ef738b6a_surge_protector_V3_textured.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1780,
+    "h": 2159
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1422562329557-ZBCBKO78VA6PO1KEGY0I/surge_protector_WIP-5e.jpg",
+    "file": "images/a13f6382_surge_protector_WIP-5e.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1422562323443-4G8EY8KAEYCZ8LNJH1KJ/surge_protector_WIP-5c.jpg",
+    "file": "images/ef943924_surge_protector_WIP-5c.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1422562319451-43D6ERTRH979BFSI0MQM/surge_protector_WIP-5b.jpg",
+    "file": "images/16f0f202_surge_protector_WIP-5b.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1422562326382-94QZ3FILASLLBDOAF77R/surge_protector_WIP-5d.jpg",
+    "file": "images/c197b658_surge_protector_WIP-5d.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1422562431994-PH95246PKMTAVR9AFIN1/portfolio4g.jpg",
+    "file": "images/d5ea1409_portfolio4g.jpg",
+    "alt": "",
+    "caption": "Bill Schwab\n\n\n\n\nOriginal Concept by Bill Schwab",
+    "w": 1600,
+    "h": 1035
+   }
+  ],
+  "nav_title": "Surge Protector",
+  "videos": [],
+  "headings": [],
+  "paragraphs": [
+   "Bill Schwab\n\n\n\n\nOriginal Concept by Bill Schwab"
+  ]
+ },
+ "tikibot": {
+  "slug": "tikibot",
+  "title": "TikiBot",
+  "type": "page",
+  "description": "TikiBot is a tiki-inspired version of my Sketchbot designer toy. \u00a0During my first visit to Maui last Fall, I was greatly inspired by the native tiki carvings we encountered. \u00a0A few sketches and I landed on a version that I wanted to explore in 3d. \u00a0I used my base mesh of the original Sketchbot toy and began modifying and adding to it in Maya, knowing that I was prepping the geometry for import to ZBrush, where I would undertake the bulk of the digital \"carving\". \u00a0After polypainting the textures inside ZBrush, it was a simple matter of exporting into the incredible Keyshot3d rendering software and experimenting with the final finish and render.The 12 subtools (comprised of:\u00a0body, upper teeth, lower teeth, tongue, left arm, left hand, right arm, right hand, spear, grass skirt, left leg, right leg)\u00a0were setup with a key system and hollowed out via ZBrush's Decimation Master and 3d Print Export plug-ins. \u00a0I then uploaded to Shapeways and output two different sizes for use as prototypes and display models at the 2014 3",
+  "url": "https://www.sketchbot.tv/tikibot",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506906590-DY1LL0A0Q31HRXG4W4FD/tikiBot_final-6_sq.jpg",
+    "file": "images/19eace7b_tikiBot_final-6_sq.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1050,
+    "h": 1050
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420566538938-JZPI291R7XOLHAF3HLCY/sketchbook_scan.jpg",
+    "file": "images/28ab9fd9_sketchbook_scan.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1001,
+    "h": 1024
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/49ff05eb-45b5-45f1-8f31-9055c6f9e43b/steve-talkowski-screen-shot-2017-05-25-at-10-24-08-pm.jpg",
+    "file": "images/056aaff9_steve-talkowski-screen-shot-2017-05-25-at-10-24-08-pm.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1830,
+    "h": 1114
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e8818215-8522-4825-8492-fecf723caa45/steve-talkowski-screen-shot-2017-05-25-at-10-12-08-pm.jpg",
+    "file": "images/ee9a0466_steve-talkowski-screen-shot-2017-05-25-at-10-12-08-pm.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1826,
+    "h": 1115
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506861788-ZOLV57EOVYAYG9JHPVDR/tikiBot_final-2_square.jpg",
+    "file": "images/5d8e8811_tikiBot_final-2_square.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 945,
+    "h": 945
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506875046-JTL3Y3SN2RY85IIHE4HR/tikiBot_final-5_square.jpg",
+    "file": "images/7ac7ad92_tikiBot_final-5_square.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1071,
+    "h": 1071
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420566377515-3WCEPHZ0S79WV0WA19VO/tikiBot_maya_base_mesh.jpg",
+    "file": "images/81d48963_tikiBot_maya_base_mesh.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1024,
+    "h": 1023
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1a44e71c-57ad-455c-80db-06059a649012/steve-talkowski-tikibot-green-chavant-2.jpg",
+    "file": "images/6098eabb_steve-talkowski-tikibot-green-chavant-2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1500,
+    "h": 1000
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/9d84c799-bcad-4d12-a98a-35ed2fb06b86/steve-talkowski-fbx-review-large.jpg",
+    "file": "images/948a061f_steve-talkowski-fbx-review-large.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1491
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420566353418-L9NK5HUF7V3CAH95K05R/tikiBot_parts.JPG",
+    "file": "images/07445fc7_tikiBot_parts.JPG",
+    "alt": "",
+    "caption": "",
+    "w": 771,
+    "h": 771
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506937804-OBL2NNG0SWVPB3V74F0B/tikiBot_logo.jpg",
+    "file": "images/85ee3b01_tikiBot_logo.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1118,
+    "h": 1118
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420506954746-VJEPOB9585E828F74VH1/tikiBot_3dprint-1+2.jpg",
+    "file": "images/a54599ef_tikiBot_3dprint-1+2.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 2100,
+    "h": 2100
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1420507013213-GOPBI98XENUQC95OZ6SK/3dPrinterWorld_ZBrush.jpg",
+    "file": "images/91409a8c_3dPrinterWorld_ZBrush.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1224,
+    "h": 1224
+   }
+  ],
+  "nav_title": "TikiBot",
+  "videos": [],
+  "headings": [],
+  "paragraphs": []
+ },
+ "tron": {
+  "slug": "tron",
+  "title": "TRON",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/tron",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/b1cc9519-a0ed-44f8-8b9c-9d856dde8858/settings.jpg",
+    "file": "images/b65b3d1d_settings.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/efeaa175-7396-47ed-8435-36b717fc2bda/enable_env.jpg",
+    "file": "images/8ff9b588_enable_env.jpg",
+    "alt": "",
+    "caption": "",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/bcbe51e1-16ff-4b69-8c6b-9aea25162f63/TRON_maya.png",
+    "file": "images/a27f4973_TRON_maya.png",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1366
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/338f72c3-b70d-4b07-9786-1e207e782e5c/TANK_Painter.png",
+    "file": "images/5af7355f_TANK_Painter.png",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1359
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/e25be014-b552-49e7-bc51-9197c0deb00d/Recognizer_Painter.png",
+    "file": "images/612ee90f_Recognizer_Painter.png",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1359
+   },
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/fa658d65-fd20-465a-91ae-6a6108ffbe35/Screenshot+2025-10-12+at+3.28.15%E2%80%AFPM.png",
+    "file": "images/5721d595_Screenshot+2025-10-12+at+3.28.15%E2%80%AFPM.png",
+    "alt": "",
+    "caption": "",
+    "w": 2500,
+    "h": 1543
+   }
+  ],
+  "nav_title": "TRON",
+  "videos": [
+   "https://www.youtube.com/embed/-bEEAq0T6U0"
+  ],
+  "headings": [
+   "TRON \u00a0IMMERSIVE",
+   "The original TRON ignited my passion for computer animation when I first saw it at 16 in 1982.",
+   "With the release of TRON Ares, I decided to create an homage to the original as a proof-of-concept for my first spatial website environment for Apple Vision Pro.",
+   "Two Interactive 3D models will display stereoscopically inline on Vision Pro.",
+   "PROGRAMS",
+   "Modeled and Animated in Autodesk Maya",
+   "Textured in Adobe Substance Painter",
+   "Assembled in Reality Composer Pro",
+   "END OF LINE",
+   "END OF LINE"
+  ],
+  "paragraphs": [
+   "To view the 3d environment on Vision Pro, enable \u201cWebsite environments\u201d via:",
+   "Settings -> Apps -> Safari -> Advanced -> Feature Flags.",
+   "Next, click on the Page Format icon to the right of the microphone in the URL bar, then select \u201cOpen Website Environment\u201d. The loopable scene (with audio!) will begin to play.",
+   "Crank the Digital Crown to Full Immersion. Move the Safari browser window off to the side and enjoy your brief respite on The Grid!"
+  ]
+ },
+ "usdz-files": {
+  "slug": "usdz-files",
+  "title": "USDZ FILES",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/usdz-files",
+  "items": [],
+  "nav_title": "USDZ FILES",
+  "videos": [],
+  "headings": [],
+  "paragraphs": [
+   "Alien Head_V2 - ZBrush for iPad by stevetalkowski on Sketchfab",
+   "ZBrush for iPad test"
+  ]
+ },
+ "home": {
+  "slug": "home",
+  "title": "Sketchbot Studios",
+  "type": "page",
+  "description": "",
+  "url": "https://www.sketchbot.tv/",
+  "items": [
+   {
+    "src": "https://images.squarespace-cdn.com/content/v1/54346112e4b05299043ab0fd/1617163719800-5YTI9BEJPVKY8HACJ1F2/sketchbotPilotClipboard.png",
+    "file": "images/0598d387_sketchbotPilotClipboard.png",
+    "alt": "sketchbotPilotClipboard.png",
+    "caption": "",
+    "w": 599,
+    "h": 599
+   }
+  ],
+  "videos": [],
+  "headings": [
+   "Design. Create. Animate.",
+   "Welcome to Sketchbot Studios",
+   "Dream it.",
+   "Build it.",
+   "Grow it.",
+   "Sell it.",
+   "VR it."
+  ],
+  "paragraphs": []
+ }
+}

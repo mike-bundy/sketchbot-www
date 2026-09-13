@@ -1,0 +1,594 @@
+[
+  {
+    "name": ".gitattributes",
+    "path": ".gitattributes",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/.gitattributes?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/.gitattributes",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/.gitattributes",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/.gitattributes?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/.gitattributes"
+    }
+  },
+  {
+    "name": "ES_Forsaken_Luba_Hilman.mp3",
+    "path": "ES_Forsaken_Luba_Hilman.mp3",
+    "sha": "a4d35b159d1236f0d7c0592ecc3c112a966f2774",
+    "size": 9493163,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/ES_Forsaken_Luba_Hilman.mp3?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/ES_Forsaken_Luba_Hilman.mp3",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/a4d35b159d1236f0d7c0592ecc3c112a966f2774",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/ES_Forsaken_Luba_Hilman.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/ES_Forsaken_Luba_Hilman.mp3?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/a4d35b159d1236f0d7c0592ecc3c112a966f2774",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/ES_Forsaken_Luba_Hilman.mp3"
+    }
+  },
+  {
+    "name": "Immersive.usdz",
+    "path": "Immersive.usdz",
+    "sha": "af10cd42fb8f6acdf196c36705614cd29061e414",
+    "size": 22938843,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/Immersive.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/Immersive.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/af10cd42fb8f6acdf196c36705614cd29061e414",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/Immersive.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/Immersive.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/af10cd42fb8f6acdf196c36705614cd29061e414",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/Immersive.usdz"
+    }
+  },
+  {
+    "name": "aerodynamics_workshop_4k.exr",
+    "path": "aerodynamics_workshop_4k.exr",
+    "sha": "377768db6e586ea84e3a3d72aad254f7dc192ff6",
+    "size": 19513992,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/aerodynamics_workshop_4k.exr?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/aerodynamics_workshop_4k.exr",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/377768db6e586ea84e3a3d72aad254f7dc192ff6",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/aerodynamics_workshop_4k.exr",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/aerodynamics_workshop_4k.exr?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/377768db6e586ea84e3a3d72aad254f7dc192ff6",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/aerodynamics_workshop_4k.exr"
+    }
+  },
+  {
+    "name": "audio_scene.usdz",
+    "path": "audio_scene.usdz",
+    "sha": "ef3a1647b4018103e0fb47d9e5c898cb416bec93",
+    "size": 1397420,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/audio_scene.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/audio_scene.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ef3a1647b4018103e0fb47d9e5c898cb416bec93",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/audio_scene.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/audio_scene.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ef3a1647b4018103e0fb47d9e5c898cb416bec93",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/audio_scene.usdz"
+    }
+  },
+  {
+    "name": "backrooms_env_V4_optimized.usdz",
+    "path": "backrooms_env_V4_optimized.usdz",
+    "sha": "b7772ce5002eef2c4e7cfd412c1aae84d4ecef5a",
+    "size": 20590604,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/backrooms_env_V4_optimized.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/backrooms_env_V4_optimized.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b7772ce5002eef2c4e7cfd412c1aae84d4ecef5a",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/backrooms_env_V4_optimized.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/backrooms_env_V4_optimized.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b7772ce5002eef2c4e7cfd412c1aae84d4ecef5a",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/backrooms_env_V4_optimized.usdz"
+    }
+  },
+  {
+    "name": "black_env.exr",
+    "path": "black_env.exr",
+    "sha": "e162a09a2ccd9125cf19fa9c031ef575f81ab68f",
+    "size": 395656,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/black_env.exr?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/black_env.exr",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/e162a09a2ccd9125cf19fa9c031ef575f81ab68f",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/black_env.exr",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/black_env.exr?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/e162a09a2ccd9125cf19fa9c031ef575f81ab68f",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/black_env.exr"
+    }
+  },
+  {
+    "name": "black_env.hdr",
+    "path": "black_env.hdr",
+    "sha": "62c266ab7bcd32a071ca6a667e64d1586090d802",
+    "size": 431,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/black_env.hdr?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/black_env.hdr",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/62c266ab7bcd32a071ca6a667e64d1586090d802",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/black_env.hdr",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/black_env.hdr?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/62c266ab7bcd32a071ca6a667e64d1586090d802",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/black_env.hdr"
+    }
+  },
+  {
+    "name": "cube_env_baked_V2.usdz",
+    "path": "cube_env_baked_V2.usdz",
+    "sha": "79d652528971b74e12e179b80e4381c419c41f3d",
+    "size": 43615732,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/cube_env_baked_V2.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/cube_env_baked_V2.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/79d652528971b74e12e179b80e4381c419c41f3d",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/cube_env_baked_V2.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/cube_env_baked_V2.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/79d652528971b74e12e179b80e4381c419c41f3d",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/cube_env_baked_V2.usdz"
+    }
+  },
+  {
+    "name": "recognizer_SS-03.png",
+    "path": "recognizer_SS-03.png",
+    "sha": "b2ea3d8b0527cafef01a2520add1d0dfc2776449",
+    "size": 1203274,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_SS-03.png?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_SS-03.png",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b2ea3d8b0527cafef01a2520add1d0dfc2776449",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/recognizer_SS-03.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_SS-03.png?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b2ea3d8b0527cafef01a2520add1d0dfc2776449",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_SS-03.png"
+    }
+  },
+  {
+    "name": "recognizer_V2_2k.usdz",
+    "path": "recognizer_V2_2k.usdz",
+    "sha": "58133b5e0715fc37ef21737518ccc34ff3a49f97",
+    "size": 492928,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_V2_2k.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_V2_2k.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/58133b5e0715fc37ef21737518ccc34ff3a49f97",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/recognizer_V2_2k.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_V2_2k.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/58133b5e0715fc37ef21737518ccc34ff3a49f97",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_V2_2k.usdz"
+    }
+  },
+  {
+    "name": "recognizer_clip2.m4a",
+    "path": "recognizer_clip2.m4a",
+    "sha": "8adbfa223a8d96fecbab3c9ea2a1b8c525c1ed36",
+    "size": 319351,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_clip2.m4a?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_clip2.m4a",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/8adbfa223a8d96fecbab3c9ea2a1b8c525c1ed36",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/recognizer_clip2.m4a",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_clip2.m4a?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/8adbfa223a8d96fecbab3c9ea2a1b8c525c1ed36",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_clip2.m4a"
+    }
+  },
+  {
+    "name": "recognizer_clip2.wav",
+    "path": "recognizer_clip2.wav",
+    "sha": "6d5366d51ef4c3e264195f7863c17126de77514a",
+    "size": 1646670,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_clip2.wav?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_clip2.wav",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/6d5366d51ef4c3e264195f7863c17126de77514a",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/recognizer_clip2.wav",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/recognizer_clip2.wav?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/6d5366d51ef4c3e264195f7863c17126de77514a",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/recognizer_clip2.wav"
+    }
+  },
+  {
+    "name": "tank_SS.png",
+    "path": "tank_SS.png",
+    "sha": "21d6f0e741d983d4f7bb9c7cbfe171b448dd4141",
+    "size": 7200387,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/tank_SS.png?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/tank_SS.png",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/21d6f0e741d983d4f7bb9c7cbfe171b448dd4141",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/tank_SS.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/tank_SS.png?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/21d6f0e741d983d4f7bb9c7cbfe171b448dd4141",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/tank_SS.png"
+    }
+  },
+  {
+    "name": "tank_SS_V2.jpg",
+    "path": "tank_SS_V2.jpg",
+    "sha": "79c41b50e6f47307b603a99dae7ca31cfc1c3874",
+    "size": 903984,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/tank_SS_V2.jpg?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/tank_SS_V2.jpg",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/79c41b50e6f47307b603a99dae7ca31cfc1c3874",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/tank_SS_V2.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/tank_SS_V2.jpg?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/79c41b50e6f47307b603a99dae7ca31cfc1c3874",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/tank_SS_V2.jpg"
+    }
+  },
+  {
+    "name": "tank_V2_2k.usdz",
+    "path": "tank_V2_2k.usdz",
+    "sha": "62e223f6805c9f6549d524523cf4b203cbe79f06",
+    "size": 745884,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/tank_V2_2k.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/tank_V2_2k.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/62e223f6805c9f6549d524523cf4b203cbe79f06",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/tank_V2_2k.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/tank_V2_2k.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/62e223f6805c9f6549d524523cf4b203cbe79f06",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/tank_V2_2k.usdz"
+    }
+  },
+  {
+    "name": "testEnv.usdz",
+    "path": "testEnv.usdz",
+    "sha": "0e1d90074e21bc7bf13e948c46d474854a150671",
+    "size": 2597,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/testEnv.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/testEnv.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/0e1d90074e21bc7bf13e948c46d474854a150671",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/testEnv.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/testEnv.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/0e1d90074e21bc7bf13e948c46d474854a150671",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/testEnv.usdz"
+    }
+  },
+  {
+    "name": "theGrid.usdz",
+    "path": "theGrid.usdz",
+    "sha": "b16bed44e9edce00ecf8fc2908ed3eac4fe1beb0",
+    "size": 2703823,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b16bed44e9edce00ecf8fc2908ed3eac4fe1beb0",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b16bed44e9edce00ecf8fc2908ed3eac4fe1beb0",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid.usdz"
+    }
+  },
+  {
+    "name": "theGrid_V2.usdz",
+    "path": "theGrid_V2.usdz",
+    "sha": "f4cab927964f0053a4e8060b11b92b8196435ccc",
+    "size": 1957996,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/f4cab927964f0053a4e8060b11b92b8196435ccc",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_V2.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/f4cab927964f0053a4e8060b11b92b8196435ccc",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2.usdz"
+    }
+  },
+  {
+    "name": "theGrid_V2_lowered-2.usdz",
+    "path": "theGrid_V2_lowered-2.usdz",
+    "sha": "913f3ddd45ba30df53e00d9c849fb4330fdee2a8",
+    "size": 1958274,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2_lowered-2.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2_lowered-2.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/913f3ddd45ba30df53e00d9c849fb4330fdee2a8",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_V2_lowered-2.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2_lowered-2.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/913f3ddd45ba30df53e00d9c849fb4330fdee2a8",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2_lowered-2.usdz"
+    }
+  },
+  {
+    "name": "theGrid_V2_lowered.usdz",
+    "path": "theGrid_V2_lowered.usdz",
+    "sha": "3a5b99e27965551ee2d7985e8bd977483965ad8a",
+    "size": 1958081,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2_lowered.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2_lowered.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/3a5b99e27965551ee2d7985e8bd977483965ad8a",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_V2_lowered.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2_lowered.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/3a5b99e27965551ee2d7985e8bd977483965ad8a",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2_lowered.usdz"
+    }
+  },
+  {
+    "name": "theGrid_V2_lowered_more.usdz",
+    "path": "theGrid_V2_lowered_more.usdz",
+    "sha": "137bc8a1a67b87b4a5a4dec9453bf2746c3b0f42",
+    "size": 1958509,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2_lowered_more.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2_lowered_more.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/137bc8a1a67b87b4a5a4dec9453bf2746c3b0f42",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_V2_lowered_more.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_V2_lowered_more.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/137bc8a1a67b87b4a5a4dec9453bf2746c3b0f42",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_V2_lowered_more.usdz"
+    }
+  },
+  {
+    "name": "theGrid_full.usdz",
+    "path": "theGrid_full.usdz",
+    "sha": "53e02635be61839713bb19b71a831adba0e1a119",
+    "size": 5195286,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_full.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_full.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/53e02635be61839713bb19b71a831adba0e1a119",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_full.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_full.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/53e02635be61839713bb19b71a831adba0e1a119",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_full.usdz"
+    }
+  },
+  {
+    "name": "theGrid_full_V2.usdz",
+    "path": "theGrid_full_V2.usdz",
+    "sha": "a8ff8cff3dfd0924e20690586ae9448e292add79",
+    "size": 5533131,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_full_V2.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_full_V2.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/a8ff8cff3dfd0924e20690586ae9448e292add79",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_full_V2.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_full_V2.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/a8ff8cff3dfd0924e20690586ae9448e292add79",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_full_V2.usdz"
+    }
+  },
+  {
+    "name": "theGrid_full_V3.usdz",
+    "path": "theGrid_full_V3.usdz",
+    "sha": "ef0e9cc566e7dfce4f4bf310bfea40742a3e3d4a",
+    "size": 5604948,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_full_V3.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_full_V3.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ef0e9cc566e7dfce4f4bf310bfea40742a3e3d4a",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_full_V3.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_full_V3.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ef0e9cc566e7dfce4f4bf310bfea40742a3e3d4a",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_full_V3.usdz"
+    }
+  },
+  {
+    "name": "theGrid_lowered-3.usdz",
+    "path": "theGrid_lowered-3.usdz",
+    "sha": "9698be2de31635a043a12bf1c1b5ae97eb33a91a",
+    "size": 3282072,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-3.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-3.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/9698be2de31635a043a12bf1c1b5ae97eb33a91a",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_lowered-3.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-3.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/9698be2de31635a043a12bf1c1b5ae97eb33a91a",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-3.usdz"
+    }
+  },
+  {
+    "name": "theGrid_lowered-4.usdz",
+    "path": "theGrid_lowered-4.usdz",
+    "sha": "ddc8f59820583a618efdf4c65a4954a54405eae6",
+    "size": 3262106,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-4.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-4.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ddc8f59820583a618efdf4c65a4954a54405eae6",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_lowered-4.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-4.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ddc8f59820583a618efdf4c65a4954a54405eae6",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-4.usdz"
+    }
+  },
+  {
+    "name": "theGrid_lowered-5.usdz",
+    "path": "theGrid_lowered-5.usdz",
+    "sha": "9c8db17742a610f5c672d0b6670c7c4ff3c15f03",
+    "size": 3262112,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-5.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-5.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/9c8db17742a610f5c672d0b6670c7c4ff3c15f03",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_lowered-5.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-5.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/9c8db17742a610f5c672d0b6670c7c4ff3c15f03",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-5.usdz"
+    }
+  },
+  {
+    "name": "theGrid_lowered-6.usdz",
+    "path": "theGrid_lowered-6.usdz",
+    "sha": "513899d131aedf8fe3b7b7fd336452acf272ba66",
+    "size": 3262126,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-6.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-6.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/513899d131aedf8fe3b7b7fd336452acf272ba66",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_lowered-6.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_lowered-6.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/513899d131aedf8fe3b7b7fd336452acf272ba66",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_lowered-6.usdz"
+    }
+  },
+  {
+    "name": "theGrid_newAudio.usdz",
+    "path": "theGrid_newAudio.usdz",
+    "sha": "320c74402da7bbb1cda86da58542ba06aa1fd39f",
+    "size": 3281762,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_newAudio.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_newAudio.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/320c74402da7bbb1cda86da58542ba06aa1fd39f",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_newAudio.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_newAudio.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/320c74402da7bbb1cda86da58542ba06aa1fd39f",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_newAudio.usdz"
+    }
+  },
+  {
+    "name": "theGrid_scaled.usdz",
+    "path": "theGrid_scaled.usdz",
+    "sha": "07cbe59d6346319f1221f13e571a11ac49ea1c3d",
+    "size": 1958437,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_scaled.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_scaled.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/07cbe59d6346319f1221f13e571a11ac49ea1c3d",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_scaled.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_scaled.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/07cbe59d6346319f1221f13e571a11ac49ea1c3d",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_scaled.usdz"
+    }
+  },
+  {
+    "name": "theGrid_w_logo.usdz",
+    "path": "theGrid_w_logo.usdz",
+    "sha": "08c5bc29d09ed9ee1519acac126fb67ac840f7e5",
+    "size": 2013859,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_logo.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_logo.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/08c5bc29d09ed9ee1519acac126fb67ac840f7e5",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_w_logo.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_logo.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/08c5bc29d09ed9ee1519acac126fb67ac840f7e5",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_logo.usdz"
+    }
+  },
+  {
+    "name": "theGrid_w_people-2.usdz",
+    "path": "theGrid_w_people-2.usdz",
+    "sha": "9b3131958e3a627955c69abe02d0e572a28f2e11",
+    "size": 5195218,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people-2.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people-2.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/9b3131958e3a627955c69abe02d0e572a28f2e11",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_w_people-2.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people-2.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/9b3131958e3a627955c69abe02d0e572a28f2e11",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people-2.usdz"
+    }
+  },
+  {
+    "name": "theGrid_w_people-3.usdz",
+    "path": "theGrid_w_people-3.usdz",
+    "sha": "ad4ece8506a6465ce5c49728ef3f9c5466a7d26f",
+    "size": 5195195,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people-3.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people-3.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ad4ece8506a6465ce5c49728ef3f9c5466a7d26f",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_w_people-3.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people-3.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/ad4ece8506a6465ce5c49728ef3f9c5466a7d26f",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people-3.usdz"
+    }
+  },
+  {
+    "name": "theGrid_w_people-4.usdz",
+    "path": "theGrid_w_people-4.usdz",
+    "sha": "4e6f836a5ba29beb9b63fdb7984672e64897ea74",
+    "size": 5195218,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people-4.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people-4.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/4e6f836a5ba29beb9b63fdb7984672e64897ea74",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_w_people-4.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people-4.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/4e6f836a5ba29beb9b63fdb7984672e64897ea74",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people-4.usdz"
+    }
+  },
+  {
+    "name": "theGrid_w_people.usdz",
+    "path": "theGrid_w_people.usdz",
+    "sha": "769db5120f8ed89599f34ec470bc8c210a567c26",
+    "size": 5195140,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/769db5120f8ed89599f34ec470bc8c210a567c26",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/theGrid_w_people.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/theGrid_w_people.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/769db5120f8ed89599f34ec470bc8c210a567c26",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/theGrid_w_people.usdz"
+    }
+  },
+  {
+    "name": "website.usdz",
+    "path": "website.usdz",
+    "sha": "b86e7d6f87f5d6321788bc9c89c93445f3b539a6",
+    "size": 13094029,
+    "url": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/website.usdz?ref=main",
+    "html_url": "https://github.com/stevetalkowski/spatial-assets/blob/main/website.usdz",
+    "git_url": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b86e7d6f87f5d6321788bc9c89c93445f3b539a6",
+    "download_url": "https://raw.githubusercontent.com/stevetalkowski/spatial-assets/main/website.usdz",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/stevetalkowski/spatial-assets/contents/website.usdz?ref=main",
+      "git": "https://api.github.com/repos/stevetalkowski/spatial-assets/git/blobs/b86e7d6f87f5d6321788bc9c89c93445f3b539a6",
+      "html": "https://github.com/stevetalkowski/spatial-assets/blob/main/website.usdz"
+    }
+  }
+]

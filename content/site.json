@@ -1,0 +1,164 @@
+{
+ "nav": [
+  {
+   "key": "spatial",
+   "label": "Spatial",
+   "href": "/spatial/"
+  },
+  {
+   "key": "work",
+   "label": "Work",
+   "href": "/work/"
+  },
+  {
+   "key": "reel",
+   "label": "Reel",
+   "href": "/reel/"
+  },
+  {
+   "key": "about",
+   "label": "About",
+   "href": "/about/"
+  },
+  {
+   "key": "news",
+   "label": "News",
+   "href": "/news/"
+  },
+  {
+   "key": "shop",
+   "label": "Shop",
+   "href": "/shop/"
+  },
+  {
+   "key": "contact",
+   "label": "Contact",
+   "href": "/contact/"
+  }
+ ],
+ "social": [
+  {
+   "label": "Instagram",
+   "href": "https://instagram.com/stevetalkowski"
+  },
+  {
+   "label": "Vimeo",
+   "href": "https://vimeo.com/stevetalkowski"
+  },
+  {
+   "label": "LinkedIn",
+   "href": "https://www.linkedin.com/in/stevetalkowski"
+  },
+  {
+   "label": "GitHub",
+   "href": "https://github.com/stevetalkowski"
+  },
+  {
+   "label": "Sketchfab",
+   "href": "https://sketchfab.com/stevetalkowski"
+  },
+  {
+   "label": "Pinterest",
+   "href": "https://pinterest.com/stevetalkowski"
+  },
+  {
+   "label": "Tumblr",
+   "href": "https://sketchbot.tumblr.com"
+  }
+ ],
+ "clients": [
+  "Beats by Dre",
+  "BMW",
+  "Pepsi",
+  "General Mills",
+  "Target",
+  "Reese's",
+  "M&M's",
+  "Google",
+  "Adobe",
+  "Autodesk",
+  "KeyShot",
+  "Yoplait",
+  "TheraFlu",
+  "SanDisk",
+  "TruGreen",
+  "Nickelodeon",
+  "Marvel",
+  "AT&T",
+  "Canon",
+  "MAC Cosmetics",
+  "Blue Sky Studios",
+  "Warner Bros.",
+  "Thermo Fisher / GIBCO",
+  "Quaker",
+  "Band-Aid",
+  "Trident",
+  "Capri-Sun",
+  "GMC",
+  "Mott's",
+  "Ice Breakers",
+  "Chapstick",
+  "Sony Ericsson",
+  "Efficiency Vermont"
+ ],
+ "reel_vimeo_id": "48596412",
+ "client_groups": [
+  {
+   "label": "Brands",
+   "names": [
+    "Beats by Dre",
+    "BMW",
+    "Pepsi",
+    "General Mills",
+    "Target",
+    "Reese's",
+    "M&M's",
+    "Google",
+    "Yoplait",
+    "TheraFlu",
+    "SanDisk",
+    "TruGreen",
+    "AT&T",
+    "Canon",
+    "MAC Cosmetics",
+    "Quaker",
+    "Band-Aid",
+    "Trident",
+    "Capri-Sun",
+    "GMC",
+    "Mott's",
+    "Ice Breakers",
+    "Chapstick",
+    "Sony Ericsson",
+    "Efficiency Vermont"
+   ]
+  },
+  {
+   "label": "Film & studios",
+   "names": [
+    "Blue Sky Studios",
+    "Ice Age",
+    "Joe's Apartment",
+    "Alien Resurrection",
+    "Bunny",
+    "Warner Bros.",
+    "SCOOB!",
+    "Nickelodeon",
+    "Marvel"
+   ]
+  },
+  {
+   "label": "Software & science",
+   "names": [
+    "Adobe",
+    "Autodesk",
+    "KeyShot",
+    "Thermo Fisher / GIBCO",
+    "Design Studio Press",
+    "3D World Magazine",
+    "Mold3D",
+    "Sketchfab"
+   ]
+  }
+ ]
+}

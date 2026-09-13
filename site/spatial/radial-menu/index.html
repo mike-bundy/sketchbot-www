@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radial Menu — open-source tunable menu for visionOS — Sketchbot Studios</title>
+<meta name="description" content="A tunable radial, vertical and horizontal menu for visionOS, macOS, iPadOS and iOS. One Swift file, no dependencies, plus a tuning app with live sliders and code export.">
+<link rel="canonical" href="https://www.sketchbot.tv/spatial/radial-menu/">
+<meta name="theme-color" content="#0b0b0e" media="(prefers-color-scheme: dark)"><meta name="theme-color" content="#f6f3ee" media="(prefers-color-scheme: light)">
+<meta property="og:site_name" content="Sketchbot Studios"><meta property="og:type" content="website"><meta property="og:title" content="Radial Menu — open-source tunable menu for visionOS — Sketchbot Studios"><meta property="og:description" content="A tunable radial, vertical and horizontal menu for visionOS, macOS, iPadOS and iOS. One Swift file, no dependencies, plus a tuning app with live sliders and code export."><meta property="og:url" content="https://www.sketchbot.tv/spatial/radial-menu/"><meta property="og:image" content="https://www.sketchbot.tv/assets/img/full/ab789c15_afternoonAtMuseum.0006.jpg">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Radial Menu — open-source tunable menu for visionOS — Sketchbot Studios"><meta name="twitter:description" content="A tunable radial, vertical and horizontal menu for visionOS, macOS, iPadOS and iOS. One Swift file, no dependencies, plus a tuning app with live sliders and code export."><meta name="twitter:image" content="https://www.sketchbot.tv/assets/img/full/ab789c15_afternoonAtMuseum.0006.jpg">
+<link rel="icon" href="/assets/brand/favicon-96.png" type="image/png" sizes="96x96"><link rel="icon" href="/assets/brand/favicon-48.png" type="image/png" sizes="48x48"><link rel="icon" href="/assets/brand/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Sketchbot Studios News" href="/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/site.css?v=1789277790">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.186.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.186.0/examples/jsm/"}}</script>
+<script type="speculationrules">{"prerender":[{"where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/*\\?*"}}]},"eagerness":"moderate"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "Radial Menu", "codeRepository": "https://github.com/stevetalkowski/radial-menu", "programmingLanguage": "Swift", "runtimePlatform": "visionOS, macOS, iPadOS, iOS", "author": {"@id": "https://www.sketchbot.tv/#steve"}, "license": "https://opensource.org/licenses/MIT"}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap"><div class="bar">
+  <a class="brand" href="/" aria-label="Sketchbot Studios home"><img src="/assets/brand/logo-64.png" srcset="/assets/brand/logo-64.png 1x, /assets/brand/logo-round.png 2x" width="30" height="30" alt=""><span>Sketchbot<small>Studios</small></span></a>
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav" aria-label="Menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  <nav class="nav" id="nav" aria-label="Primary"><a href="/spatial/" aria-current="page">Spatial</a><a href="/work/">Work</a><a href="/reel/">Reel</a><a href="/about/">About</a><a href="/news/">News</a><a href="/shop/">Shop</a><a href="/contact/">Contact</a>
+    <button class="theme-toggle" aria-label="Toggle light/dark theme"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button>
+  </nav>
+</div></div></header>
+<main id="main">
+
+<section class="section" style="padding-top:clamp(1.25rem,3vw,2rem)"><div class="wrap">
+  <nav aria-label="Breadcrumb"><ol class="crumbs" role="list"><li><a href="/">Home</a></li><li><a href="/spatial/">Spatial</a></li><li>Radial Menu</li></ol></nav>
+  <div class="split">
+    <div class="page-head"><p class="eyebrow eyebrow--orange">Open source · Swift · MIT</p><h1>Radial Menu</h1><p>A tunable radial, vertical and horizontal menu for visionOS, macOS, iPadOS and iOS. One Swift file with no dependencies, plus the app you tune it in: live sliders, draggable measure guides, synthesised audio cues and code export.</p>
+    <div class="cluster"><a class="btn btn--orange" href="https://github.com/stevetalkowski/radial-menu" target="_blank" rel="noopener">GitHub <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a><a class="btn btn--ghost" href="/spatial/quads/">Born in Quads</a></div></div>
+    <div class="card card--pad" style="font-family:var(--mono);font-size:.9rem;line-height:1.7"><p class="eyebrow eyebrow--orange mb-1">The packing rule</p>
+<pre style="background:transparent;border:0;padding:0"><code>R = pitch / (2·sin(step/2))
+pitch = iconSize × (1 + gutter)</code></pre><p class="muted mt-1">One base unit, one constraint. Change the icon size, the item count or the arc and the spacing re-solves. Nothing overlaps because nothing can.</p></div>
+  </div>
+</div></section>
+
+<section class="section"><div class="wrap">
+  <div class="stack reveal " style="--stack:.6rem"><p class="eyebrow ">Why it exists</p><h2>Radial menus are easy to draw and hard to get right</h2></div>
+  <div class="grid grid--3 mt-3">
+    <div class="card card--pad"><h3>Parametric geometry</h3><p>Spacing, hit targets and the distance a hand travels before a sub-menu opens are all numbers, and every number is wrong until you've felt it on a device. So the geometry is parametric and the export ships ratios, not points.</p></div>
+    <div class="card card--pad"><h3>It does not scroll</h3><p>Every item is on screen. Eight is comfortable, twelve is the ceiling. A radial menu's whole value is spatial constancy: Delete is at 7 o'clock, always, and your hand learns it in a week.</p></div>
+    <div class="card card--pad"><h3>Four platforms, real hardware</h3><p>One target runs on visionOS, macOS, iPadOS and iOS, and all four have been run on real devices rather than only a simulator, which is where the more interesting bugs in DESIGN.md came from.</p></div>
+  </div>
+  <div class="split mt-3">
+    <div class="stack"><h3>The tuning app</h3><p class="muted">Load your own menu, adjust icon size, gutter, arc, ring radius, sub-menu slide and easing with live sliders. Switch on measure guides to see the ring and the gutter it was solved for. Synthesised audio cues give each hover and commit a sound. When it feels right, export the ratios as Swift you can paste into your project.</p></div>
+    <div class="stack"><h3>Designed for pinch</h3><p class="muted">Long pinch opens the dial, slide highlights, sub-items slide outward from their parent, release commits, and a short ease in and out keeps it from feeling jarring. It is the same interaction model that drives Quads' hold-menus in mid-air.</p></div>
+  </div>
+</div></section>
+</main>
+<footer class="site-footer"><div class="wrap">
+  <div class="cols">
+    <div><h4>Sketchbot Studios</h4><p class="small">Design. Create. Animate.<br>Now in your space.</p><p class="small mt-1">Los Angeles, CA<br><a href="mailto:steve@sketchbot.tv">steve@sketchbot.tv</a></p></div>
+    <div><h4>Spatial</h4><ul role="list"><li><a href="/spatial/">Spatial computing</a></li><li><a href="/spatial/quads/">Quads for Vision Pro</a></li><li><a href="/spatial/environments/">Immersive environments</a></li><li><a href="/spatial/assets/">USDZ asset pipeline</a></li><li><a href="/spatial/radial-menu/">Radial Menu (open source)</a></li><li><a href="/spatial/services/">Services</a></li></ul></div>
+    <div><h4>Studio</h4><ul role="list"><li><a href="/work/">Work</a></li><li><a href="/reel/">Demo reel</a></li><li><a href="/about/">About</a></li><li><a href="/news/">News</a></li><li><a href="/shop/">Shop</a></li><li><a href="/contact/">Contact</a></li></ul></div>
+    <div><h4>Elsewhere</h4><ul role="list"><li><a href="https://instagram.com/stevetalkowski" rel="me noopener" target="_blank">Instagram</a></li><li><a href="https://vimeo.com/stevetalkowski" rel="me noopener" target="_blank">Vimeo</a></li><li><a href="https://www.linkedin.com/in/stevetalkowski" rel="me noopener" target="_blank">LinkedIn</a></li><li><a href="https://github.com/stevetalkowski" rel="me noopener" target="_blank">GitHub</a></li><li><a href="https://sketchfab.com/stevetalkowski" rel="me noopener" target="_blank">Sketchfab</a></li><li><a href="https://pinterest.com/stevetalkowski" rel="me noopener" target="_blank">Pinterest</a></li><li><a href="https://sketchbot.tumblr.com" rel="me noopener" target="_blank">Tumblr</a></li></ul></div>
+  </div>
+  <div class="legal"><span>© <span data-year>2026</span> Sketchbot Studios · Steve Talkowski. Sketchbot™ and the Eye Pilots are trademarks of Sketchbot Studios.</span><span><a href="/feed.xml">RSS</a> · <a href="/llms.txt">llms.txt</a> · <a href="/sitemap.xml">Sitemap</a></span></div>
+</div></footer>
+<script src="/assets/js/site.js?v=1789277790" defer></script>
+<script type="module" src="/assets/js/spatial.js?v=1789277790"></script>
+</body>
+</html>

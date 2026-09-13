@@ -1,0 +1,4 @@
+.DS_Store
+archive/raw/
+archive/images/*
+!archive/images/manifest.json
