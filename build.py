@@ -242,7 +242,7 @@ def crumbs(*pairs):
 
 # ----------------------------------------------------------------------------- HOME
 def page_home():
-    hero = {'file': 'archive/images/5d625869_DAY_04_KS_V2_for_coverPage.jpg', 'w': 2500, 'h': 1668, 'caption': ''}  # the original sketchbot.tv cover banner (placeholder until the new asset lands)
+    hero = {'file': 'archive/images/9d642038_backrooms_SB-03.png', 'w': 2500, 'h': 1406, 'caption': ''}  # home hero banner (swap the file here to change it)
     featured = [by_slug[s] for s in ['tron-immersive', 'afternoon-at-the-museum', 'autodesk-maya-m4y4', 'sketchbot', 'adobe-vr-bot', 'scoob-concept-art', 'jammin-alpacas', 'gibco-cells', 'keyshot-6-avatar']]
     cards = ''.join(work_card(p, wide=(i == 0), eager=(i < 3)) for i, p in enumerate(featured))
     beat_items = [
@@ -267,7 +267,7 @@ def page_home():
     lanes = ''.join(lane(g['label'], g['names'], rev=(i % 2 == 1)) for i, g in enumerate(groups))
     body = f'''
 <section class="hero hero--cover">
-  <div class="hero-media">{picture(hero, lazy=False, sizes="100vw", alt="A Sketchbot explorer robot inspecting a pinecone on a sunny path")}</div>
+  <div class="hero-media">{picture(hero, lazy=False, sizes="100vw", alt="Sketchbot holding his pencil in the yellow halls of the Backrooms")}</div>
   <div class="wrap hero-inner">
     <span class="chip chip--orange"><span class="dot"></span>Now building for Apple Vision Pro</span>
     <h1>Design. Create. Animate.<br><span class="o">Now in your space.</span></h1>
