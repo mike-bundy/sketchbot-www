@@ -326,7 +326,8 @@
   .immersive { position: relative; border-radius: var(--r-xl); overflow: clip; min-height: 420px; display: grid; align-items: end; padding: clamp(1.25rem, 4vw, 2.5rem); isolation: isolate; border: 1px solid var(--line); }
   .immersive img.bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; }
   .immersive::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(to top, rgba(0,0,0,.85), rgba(0,0,0,.15)); }
-  .immersive model { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; }
+  /* the environment <model> stays in the DOM so Safari can enter it, but the poster is what you see until you do */
+  .immersive model { position: absolute; left: 0; top: 0; width: 2px; height: 2px; opacity: 0; pointer-events: none; z-index: -3; }
   .immersive .panel { max-width: 640px; color: #fff; display: grid; gap: .8rem; justify-items: start; }
   .immersive .panel > h2, .immersive .panel > p { justify-self: stretch; }
   .immersive .panel p { color: rgba(255,255,255,.8); }
@@ -423,8 +424,9 @@
   .site-footer .legal { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; border-top: 1px solid var(--line); padding-top: 1.2rem; }
 
   /* spatial hint bar */
-  .spatial-hint { display: none; gap: .6rem; align-items: center; padding: .7rem 1rem; border-radius: var(--r); background: color-mix(in oklab, var(--orange) 16%, transparent); border: 1px solid color-mix(in oklab, var(--orange) 40%, transparent); font-size: .92rem; }
+  .spatial-hint { display: none; gap: .6rem; align-items: center; padding: .6rem .9rem; border-radius: var(--r); background: color-mix(in oklab, var(--orange) 12%, transparent); border: 1px solid color-mix(in oklab, var(--orange) 35%, transparent); font-size: .85rem; color: var(--fg-2); max-width: 70ch; }
   .spatial-hint.show { display: flex; }
+  .spatial-hint svg { width: 18px; height: 18px; flex: none; color: var(--orange); }
 
   /* big statement */
   .statement { font-size: clamp(1.5rem, 3.2vw, 2.6rem); font-weight: 800; letter-spacing: -.02em; line-height: 1.15; max-width: 26ch; text-wrap: balance; }
