@@ -346,7 +346,7 @@ def page_home():
         {"@type": "Organization", "@id": BASE_URL + "/#org", "name": "Sketchbot Studios", "url": BASE_URL, "logo": BASE_URL + "/assets/quads/icon-front.png", "founder": {"@id": BASE_URL + "/#steve"}, "sameAs": [s['href'] for s in SOCIAL], "email": "steve@sketchbot.tv", "address": {"@type": "PostalAddress", "addressLocality": "Los Angeles", "addressRegion": "CA", "addressCountry": "US"}},
         {"@type": "Person", "@id": BASE_URL + "/#steve", "name": "Steve Talkowski", "jobTitle": "Creative Director, Character Designer, Animator", "worksFor": {"@id": BASE_URL + "/#org"}, "url": BASE_URL + "/about/", "sameAs": [s['href'] for s in SOCIAL]},
         {"@type": "WebSite", "url": BASE_URL, "name": "Sketchbot Studios", "publisher": {"@id": BASE_URL + "/#org"}}]}
-    write('index.html', layout(title='Sketchbot Studios — Design. Create. Animate. Now in your space.', desc='The character-driven 3D studio of Steve Talkowski: animation for brands and film, the Sketchbot designer toy, and professional tools and services for Apple Vision Pro.', body=body, path='/', section='home', og_image=img(hero['file']), jsonld=ld, keywords=['3D character studio', 'animation director', 'designer toys', 'Vision Pro apps', 'Quads'], og_alt='Sketchbot explorer robot on a sunny path. Design. Create. Animate. Now in your space.'))
+    write('index.html', layout(title='Sketchbot Studios — Design. Create. Animate. Now in your space.', desc='The character-driven 3D studio of Steve Talkowski: animation for brands and film, the Sketchbot designer toy, and professional tools and services for Apple Vision Pro.', body=body, path='/', section='home', og_image='/assets/img/full/9d642038_backrooms_SB-03.png', jsonld=ld, keywords=['3D character studio', 'animation director', 'designer toys', 'Vision Pro apps', 'Quads'], og_alt='Sketchbot in the Backrooms. Design. Create. Animate. Now in your space.'))
 
 # ----------------------------------------------------------------------------- SPATIAL
 SPATIAL_LD = {"@context": "https://schema.org", "@type": "Service", "name": "Sketchbot Studios spatial computing", "provider": {"@id": BASE_URL + "/#org"}, "serviceType": "Spatial computing design and development for Apple Vision Pro", "areaServed": "Worldwide", "url": BASE_URL + "/spatial/"}
@@ -899,7 +899,7 @@ def main():
     misc(urls)
     # OG default
     og = SITE / 'assets/og'; og.mkdir(parents=True, exist_ok=True)
-    card = og_card('/assets/img/full/5d625869_DAY_04_KS_V2_for_coverPage.jpg')
+    card = og_card('/assets/img/full/9d642038_backrooms_SB-03.png')
     if card.startswith('/assets/og/'): shutil.copy(SITE / card.lstrip('/'), og / 'default.jpg')
     n = sum(1 for _ in SITE.rglob('*.html'))
     print(f'built {n} pages → {SITE}')
