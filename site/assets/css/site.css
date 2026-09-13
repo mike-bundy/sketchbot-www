@@ -217,7 +217,10 @@
   @media (min-width: 900px) {
     .hero--cover .hero-media img { object-position: 20% 55%; }
     .hero--cover .hero-media::after { background: linear-gradient(to top, var(--bg) 0%, color-mix(in oklab, var(--bg) 70%, transparent) 35%, transparent 70%), linear-gradient(to left, color-mix(in oklab, var(--bg) 70%, transparent), color-mix(in oklab, var(--bg) 25%, transparent) 45%, transparent 65%); }
-    .hero--cover .hero-inner { margin-left: auto; margin-right: max(var(--gutter), calc((100% - var(--wide)) / 2)); width: min(100% - 2 * var(--gutter), 640px); }
+    .hero--cover .hero-inner { margin-left: auto; margin-right: max(var(--gutter), calc((100% - var(--wide)) / 2)); width: min(100% - 2 * var(--gutter), 640px); text-align: right; justify-items: end; }
+    .hero--cover .hero-inner > p, .hero--cover .hero-inner > h1 { justify-self: end; }
+    .hero--cover .hero-inner .lede { margin-left: auto; }
+    .hero--cover .hero-inner .cluster { justify-content: flex-end; }
   }
   .ladder { display: flex; flex-wrap: wrap; gap: .35rem .9rem; font-weight: 800; font-size: clamp(1rem, 1.4vw, 1.2rem); letter-spacing: -.01em; color: var(--fg-2); }
   .ladder span { animation: ladder .8s var(--ease) both; animation-delay: calc(var(--i) * 120ms + 300ms); }
