@@ -8,7 +8,8 @@ import json, os, re, html, datetime, shutil, glob, pathlib
 
 ROOT = pathlib.Path(__file__).parent
 SITE = ROOT / 'site'
-BASE_URL = 'https://www.sketchbot.tv'
+BASE_URL = os.environ.get('SITE_BASE_URL', 'https://www.sketchbot.tv').rstrip('/')
+BASE_PATH = re.sub(r'^https?://[^/]+', '', BASE_URL)  # '' at the root, '/sketchbot-www' on a project Pages URL
 NOW = datetime.date.today().isoformat()
 ASSET_V = str(int(max(os.path.getmtime(ROOT / f) for f in ('site/assets/css/site.css', 'site/assets/js/site.js', 'site/assets/js/spatial.js'))))
 
@@ -33,6 +34,13 @@ def slugify(s):
     s = re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-'); return s[:80] or 'post'
 
 def write(path, content):
+    if BASE_PATH:
+        # Rewrite root-relative URLs for a sub-path deployment (GitHub project Pages preview).
+        content = re.sub(r'((?:href|src|data-usdz|data-poster|data-env|data-backdrop|data-audio|data-full|content|start_url)=\")/(?!/)', r'\1' + BASE_PATH + '/', content)
+        content = re.sub(r'(srcset=\"[^\"]*?)(?<=[\", ])/(?!/)', lambda m: m.group(1) + BASE_PATH + '/', content)
+        content = re.sub(r'(srcset=\"[^\"]*?, )/(?!/)', r'\1' + BASE_PATH + '/', content)
+        content = content.replace('"start_url": "/"', f'"start_url": "{BASE_PATH}/"').replace("'/assets/", f"'{BASE_PATH}/assets/")
+        content = content.replace('"href_matches":"/*"', f'"href_matches":"{BASE_PATH}/*"').replace('"href_matches":"/*\\\\?*"', f'"href_matches":"{BASE_PATH}/*\\\\?*"')
     p = SITE / path.lstrip('/'); p.parent.mkdir(parents=True, exist_ok=True); p.write_text(content, encoding='utf-8')
 
 def date_of(ms): return datetime.datetime.utcfromtimestamp(ms / 1000) if ms else None

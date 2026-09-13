@@ -19,9 +19,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Rebuild pages from content (images are committed)
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: Rebuild pages for this deployment's URL
+        env:
+          SITE_BASE_URL: ${{ steps.pages.outputs.base_url }}
         run: python3 build.py
-      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
